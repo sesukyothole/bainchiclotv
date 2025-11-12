@@ -13,7 +13,7 @@ TV_INFO = {
     "ufc": ("UFC.Fight.Pass.Dummy.us", "http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png", "UFC"),
     "fighting": ("PPV.EVENTS.Dummy.us", "http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png", "Combat Sports"),
     "nfl": ("Football.Dummy.us", "http://drewlive24.duckdns.org:9000/Logos/Maxx.png", "NFL"),
-    "nba": ("NBA.Basketball.Dummy.us", "http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png", "NBA"),
+    "nba": ("NBA.Basketball.Dummy.us", "https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg", "NBA"),
     "mlb": ("MLB.Baseball.Dummy.us", "http://drewlive24.duckdns.org:9000/Logos/Baseball3.png", "MLB"),
     "wwe": ("PPV.EVENTS.Dummy.us", "http://drewlive24.duckdns.org:9000/Logos/WWE2.png", "WWE"),
     "f1": ("Racing.Dummy.us", "http://drewlive24.duckdns.org:9000/Logos/F1.png", "Formula 1"),
@@ -173,5 +173,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
