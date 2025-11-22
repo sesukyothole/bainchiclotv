@@ -2099,10 +2099,6 @@ https://dash.pixelsport.app:443/play/9IMz1H7tRQh-EIGDiNdpFkuERH1Cgbz6q4VoVxlUc4M
 #EXTVLCOPT:http-icy-metadata=1
 https://locked.pixelpanel.online/hdstream/embed/390.m3u8
 
-#EXTGRP:Roxiestreams - Combat Sports
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",WWE Smackdown
-https://abigail.009292.xyz/wwe.m3u8
-
 #EXTGRP:Roxiestreams - Formula 1
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Formula 1",Formula 1
 https://simplya.009292.xyz/f1.m3u8
@@ -2120,21 +2116,7 @@ https://again.009292.xyz/beines.m3u8
 https://abigail.009292.xyz/wwe.m3u8
 
 #EXTGRP:Roxiestreams - Motorsports
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",F1 Academy - Qualifying
-https://simplya.009292.xyz/f1.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",F1 Academy - Qualifying
-https://simplya.009292.xyz/f1alt.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",F1 Academy - Race
-https://simplya.009292.xyz/f1.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",F1 Academy - Race
-https://simplya.009292.xyz/f1alt.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Formula 1 - Free Practice
-https://simplya.009292.xyz/f1.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Formula 1 - Free Practice
-https://simplya.009292.xyz/f1alt.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Formula 1 - Qualifying
-https://simplya.009292.xyz/f1.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/F1.png" tvg-id="Racing.Dummy.us" group-title="Roxiestreams - Motorsports",Formula 1 - Qualifying
 https://simplya.009292.xyz/f1alt.m3u8
 
 #EXTGRP:Roxiestreams - NBA
@@ -2156,12 +2138,6 @@ https://again.009292.xyz/nba8.m3u8
 https://again.009292.xyz/nba9.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Washington Wizards vs Toronto Raptors
 https://again.009292.xyz/nba3.m3u8
-
-#EXTGRP:Roxiestreams - NFL
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Florida State vs NC State
-https://abigail.009292.xyz/ncaa.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Hawaii vs UNLV
-https://abigail.009292.xyz/ncaa2.m3u8
 
 #EXTGRP:Roxiestreams - Soccer
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",AtlÃ©tico CP vs Benfica
