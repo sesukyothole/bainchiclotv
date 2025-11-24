@@ -36,7 +36,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions@users.noreply.github.com"
 
-          git add kibz.m3u8
+          git add tvpassplaylist.m3u8
 
           if git diff --cached --quiet; then
             echo "✅ No changes to commit"
