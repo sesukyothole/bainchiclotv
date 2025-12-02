@@ -1137,11 +1137,12 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/i
 http://161.49.17.2:6610/001/2/ch00000090990000001091/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com****
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="PH Cable TV",Warner TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
+*****#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd*****
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/8vcJYHjiVgYwPJ4dIL9Fn3lKvMo59qVEPajVJPVLFSGMjL_zLkioeZ3o5n5LqXbpMmmAtQknA0Q=s900-c-k-c0x00ffffff-no-rj" group-title="PH Cable TV", W Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
