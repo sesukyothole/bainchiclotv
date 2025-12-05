@@ -815,14 +815,14 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="onesportshd" tvg-name="One Sports" tvg-logo="https://yt3.googleusercontent.com/d-2Zn_yyww0OAy-xSfvIoWoJueTpH7lfL4G9uz6BL5SybJIcDLBuiBSBWKDzqGTbSfhtGKTAPw=s900-c-k-c0x00ffffff-no-rj" group-title="Cable Tv [PH]",One Sports
+*****#EXTINF:-1 tvg-id="onesportshd" tvg-name="One Sports" tvg-logo="https://yt3.googleusercontent.com/d-2Zn_yyww0OAy-xSfvIoWoJueTpH7lfL4G9uz6BL5SybJIcDLBuiBSBWKDzqGTbSfhtGKTAPw=s900-c-k-c0x00ffffff-no-rj" group-title="Cable Tv [PH]",One Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
-https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_onesports_hd.mpd*****
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="Cable Tv [PH]", One Sports+ I
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="Cable Tv [PH]", One Sports+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
