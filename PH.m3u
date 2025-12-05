@@ -1669,7 +1669,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEHwQ_S5l5XRh_DDq4qGSgnVqf_FGkMrxY1A&s" group-title="Cable Tv [Sports]",Tennis Channel
-http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+*****http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8*****
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/681109b688b9d85d0938c6ba/featuredImage_1747434869653.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="Cable Tv [Sports]",Tennis Channel 2
 https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8
