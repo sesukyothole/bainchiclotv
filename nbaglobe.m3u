@@ -82,7 +82,7 @@ http://ppv.vhr.dpdns.org:8080/ppv/nba_laclippers/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-http://ppv.vhr.dpdns.org:8080/ppv/nba_losangeleslakers/index.m3u8
+http://ppv.vhr.dpdns.org:8080/ppv/losangeleslakers/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nba Live - Homecourt [Globe]", Memphis Grizzlies
 #EXTVLCOPT:http-origin=https://ppv.to
