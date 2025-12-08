@@ -28,7 +28,7 @@ https://converse.nathcreqtives.com/1091/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1143/manifest.mpd
+https://converse.nathcreqtives.com/1143/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjaGljYXB5dGVyIiwiZXhwIjoxNzY2NDY3NzY1fQ.gn7M5KNhI0kKLWbp-drm5egt9f87-JOtexCfHDYNtQQ
 
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="Converge",GMA 7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
