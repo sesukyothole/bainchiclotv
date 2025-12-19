@@ -871,19 +871,19 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbno
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-logo="https://mb.com.ph/uploads/imported_images/pbb_d205f7c518.jpg" group-title="Cable Tv [PH]", PBB Live Dining Area
+*****#EXTINF:-1 tvg-logo="https://mb.com.ph/uploads/imported_images/pbb_d205f7c518.jpg" group-title="Cable Tv [PH]", PBB Live Dining Area
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b37bb823fe48452eba8cee62516f5da1:8b48cec6bce94917e4c39c381d607102
-https://abslive.akamaized.net/dash/live/2028025/pbb1/manifest.mpd
+https://abslive.akamaized.net/dash/live/2028025/pbb1/manifest.mpd*****
 
-#EXTINF:-1 tvg-logo="https://mb.com.ph/uploads/imported_images/pbb_d205f7c518.jpg" group-title="Cable Tv [PH]", PBB Live Pool Area
+*****#EXTINF:-1 tvg-logo="https://mb.com.ph/uploads/imported_images/pbb_d205f7c518.jpg" group-title="Cable Tv [PH]", PBB Live Pool Area
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9539027a7c42446a8648555af3bb3095:1cb94c88f68bef1e728cfa4677e1eeca
-https://abslive.akamaized.net/dash/live/2028025/pbb2/manifest.mpd
+https://abslive.akamaized.net/dash/live/2028025/pbb2/manifest.mpd*****
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/61fHpnW.png" group-title="Cable Tv [PH]", PBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
