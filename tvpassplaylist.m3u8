@@ -357,65 +357,61 @@ https://tvpass.org/live/WPIX/sd
 https://tvpass.org/live/yes-network/sd
 
 #EXTGRP:NBA
-#EXTINF:-1 tvg-id="" tvg-name="Boston Celtics @ Toronto Raptors (12/20 7:00 PM ET)" group-title="NBA",Boston Celtics @ Toronto Raptors (12/20 7:00 PM ET)
-https://tvpass.org/live/NBA03/sd
-#EXTINF:-1 tvg-id="" tvg-name="Charlotte Hornets @ Detroit Pistons (12/20 7:40 PM ET)" group-title="NBA",Charlotte Hornets @ Detroit Pistons (12/20 7:40 PM ET)
-https://tvpass.org/live/NBATV/sd
-#EXTINF:-1 tvg-id="" tvg-name="Dallas Mavericks @ Philadelphia 76ers (12/20 7:10 PM ET)" group-title="NBA",Dallas Mavericks @ Philadelphia 76ers (12/20 7:10 PM ET)
-https://tvpass.org/live/NBA02/sd
-#EXTINF:-1 tvg-id="" tvg-name="Houston Rockets @ Denver Nuggets (12/20 5:10 PM ET)" group-title="NBA",Houston Rockets @ Denver Nuggets (12/20 5:10 PM ET)
-https://tvpass.org/live/NBATV/sd
-#EXTINF:-1 tvg-id="" tvg-name="Indiana Pacers @ New Orleans Pelicans (12/20 7:10 PM ET)" group-title="NBA",Indiana Pacers @ New Orleans Pelicans (12/20 7:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Bulls @ Atlanta Hawks (12/21 3:40 PM ET)" group-title="NBA",Chicago Bulls @ Atlanta Hawks (12/21 3:40 PM ET)
 https://tvpass.org/live/NBA04/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Lakers @ Los Angeles Clippers (12/20 10:40 PM ET)" group-title="NBA",Los Angeles Lakers @ Los Angeles Clippers (12/20 10:40 PM ET)
-https://tvpass.org/live/NBATV/sd
-#EXTINF:-1 tvg-id="" tvg-name="Orlando Magic @ Utah Jazz (12/20 9:40 PM ET)" group-title="NBA",Orlando Magic @ Utah Jazz (12/20 9:40 PM ET)
-https://tvpass.org/live/NBA08/sd
-#EXTINF:-1 tvg-id="" tvg-name="Phoenix Suns @ Golden State Warriors (12/20 8:40 PM ET)" group-title="NBA",Phoenix Suns @ Golden State Warriors (12/20 8:40 PM ET)
-https://tvpass.org/live/NBA07/sd
-#EXTINF:-1 tvg-id="" tvg-name="Portland Trail Blazers @ Sacramento Kings (12/20 10:10 PM ET)" group-title="NBA",Portland Trail Blazers @ Sacramento Kings (12/20 10:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Houston Rockets @ Sacramento Kings (12/21 10:10 PM ET)" group-title="NBA",Houston Rockets @ Sacramento Kings (12/21 10:10 PM ET)
+https://tvpass.org/live/NBA25/sd
+#EXTINF:-1 tvg-id="" tvg-name="Miami Heat @ New York Knicks (12/21 6:10 PM ET)" group-title="NBA",Miami Heat @ New York Knicks (12/21 6:10 PM ET)
+https://tvpass.org/live/NBA10/sd
+#EXTINF:-1 tvg-id="" tvg-name="Milwaukee Bucks @ Minnesota Timberwolves (12/21 7:10 PM ET)" group-title="NBA",Milwaukee Bucks @ Minnesota Timberwolves (12/21 7:10 PM ET)
+https://tvpass.org/live/NBA16/sd
+#EXTINF:-1 tvg-id="" tvg-name="San Antonio Spurs @ Washington Wizards (12/21 7:10 PM ET)" group-title="NBA",San Antonio Spurs @ Washington Wizards (12/21 7:10 PM ET)
 https://tvpass.org/live/NBA09/sd
-#EXTINF:-1 tvg-id="" tvg-name="Washington Wizards @ Memphis Grizzlies (12/20 8:10 PM ET)" group-title="NBA",Washington Wizards @ Memphis Grizzlies (12/20 8:10 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Toronto Raptors @ Brooklyn Nets (12/21 6:10 PM ET)" group-title="NBA",Toronto Raptors @ Brooklyn Nets (12/21 6:10 PM ET)
 https://tvpass.org/live/NBA06/sd
 
-#EXTGRP:NCAAF
-#EXTINF:-1 tvg-id="" tvg-name="James Madison Dukes @ Oregon Ducks (12/20 7:30 PM ET)" group-title="NCAAF",James Madison Dukes @ Oregon Ducks (12/20 7:30 PM ET)
-https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 tvg-id="" tvg-name="Miami Hurricanes @ Texas A&M Aggies (12/20 12:00 PM ET)" group-title="NCAAF",Miami Hurricanes @ Texas A&M Aggies (12/20 12:00 PM ET)
-https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="" tvg-name="Tulane Green Wave @ Ole Miss Rebels (12/20 3:30 PM ET)" group-title="NCAAF",Tulane Green Wave @ Ole Miss Rebels (12/20 3:30 PM ET)
-https://tvpass.org/live/TNTEast/sd
-
 #EXTGRP:NFL
-#EXTINF:-1 tvg-id="" tvg-name="Green Bay Packers @ Chicago Bears (12/20 8:20 PM ET)" group-title="NFL",Green Bay Packers @ Chicago Bears (12/20 8:20 PM ET)
-https://tvpass.org/live/WNYWDT1/sd
-#EXTINF:-1 tvg-id="" tvg-name="Philadelphia Eagles @ Washington Commanders (12/20 5:00 PM ET)" group-title="NFL",Philadelphia Eagles @ Washington Commanders (12/20 5:00 PM ET)
-https://tvpass.org/live/WNYWDT1/sd
+#EXTINF:-1 tvg-id="" tvg-name="Atlanta Falcons @ Arizona Cardinals (12/21 4:05 PM ET)" group-title="NFL",Atlanta Falcons @ Arizona Cardinals (12/21 4:05 PM ET)
+https://tvpass.org/live/NFL10/sd
+#EXTINF:-1 tvg-id="" tvg-name="Buffalo Bills @ Cleveland Browns (12/21 1:00 PM ET)" group-title="NFL",Buffalo Bills @ Cleveland Browns (12/21 1:00 PM ET)
+https://tvpass.org/live/NFL18/sd
+#EXTINF:-1 tvg-id="" tvg-name="Cincinnati Bengals @ Miami Dolphins (12/21 1:00 PM ET)" group-title="NFL",Cincinnati Bengals @ Miami Dolphins (12/21 1:00 PM ET)
+https://tvpass.org/live/NFL21/sd
+#EXTINF:-1 tvg-id="" tvg-name="Jacksonville Jaguars @ Denver Broncos (12/21 4:05 PM ET)" group-title="NFL",Jacksonville Jaguars @ Denver Broncos (12/21 4:05 PM ET)
+https://tvpass.org/live/NFL08/sd
+#EXTINF:-1 tvg-id="" tvg-name="Kansas City Chiefs @ Tennessee Titans (12/21 1:00 PM ET)" group-title="NFL",Kansas City Chiefs @ Tennessee Titans (12/21 1:00 PM ET)
+https://tvpass.org/live/NFL31/sd
+#EXTINF:-1 tvg-id="" tvg-name="Las Vegas Raiders @ Houston Texans (12/21 4:25 PM ET)" group-title="NFL",Las Vegas Raiders @ Houston Texans (12/21 4:25 PM ET)
+https://tvpass.org/live/NFL19/sd
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Chargers @ Dallas Cowboys (12/21 1:00 PM ET)" group-title="NFL",Los Angeles Chargers @ Dallas Cowboys (12/21 1:00 PM ET)
+https://tvpass.org/live/NFL27/sd
+#EXTINF:-1 tvg-id="" tvg-name="Minnesota Vikings @ New York Giants (12/21 1:00 PM ET)" group-title="NFL",Minnesota Vikings @ New York Giants (12/21 1:00 PM ET)
+https://tvpass.org/live/NFL05/sd
+#EXTINF:-1 tvg-id="" tvg-name="New England Patriots @ Baltimore Ravens (12/21 8:20 PM ET)" group-title="NFL",New England Patriots @ Baltimore Ravens (12/21 8:20 PM ET)
+https://tvpass.org/live/NFL03/sd
+#EXTINF:-1 tvg-id="" tvg-name="New York Jets @ New Orleans Saints (12/21 1:00 PM ET)" group-title="NFL",New York Jets @ New Orleans Saints (12/21 1:00 PM ET)
+https://tvpass.org/live/NFL01/sd
+#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Steelers @ Detroit Lions (12/21 4:25 PM ET)" group-title="NFL",Pittsburgh Steelers @ Detroit Lions (12/21 4:25 PM ET)
+https://tvpass.org/live/NFL02/sd
+#EXTINF:-1 tvg-id="" tvg-name="Tampa Bay Buccaneers @ Carolina Panthers (12/21 1:00 PM ET)" group-title="NFL",Tampa Bay Buccaneers @ Carolina Panthers (12/21 1:00 PM ET)
+https://tvpass.org/live/NFL12/sd
 
 #EXTGRP:NHL
-#EXTINF:-1 tvg-id="" tvg-name="Carolina Hurricanes @ Tampa Bay Lightning (12/20 7:00 PM ET)" group-title="NHL",Carolina Hurricanes @ Tampa Bay Lightning (12/20 7:00 PM ET)
-https://tvpass.org/live/NHL04/sd
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Blackhawks @ Ottawa Senators (12/20 3:00 PM ET)" group-title="NHL",Chicago Blackhawks @ Ottawa Senators (12/20 3:00 PM ET)
-https://tvpass.org/live/NHL05/sd
-#EXTINF:-1 tvg-id="" tvg-name="Columbus Blue Jackets @ Anaheim Ducks (12/20 10:00 PM ET)" group-title="NHL",Columbus Blue Jackets @ Anaheim Ducks (12/20 10:00 PM ET)
-https://tvpass.org/live/NHL20/sd
-#EXTINF:-1 tvg-id="" tvg-name="Detroit Red Wings @ Washington Capitals (12/20 12:30 PM ET)" group-title="NHL",Detroit Red Wings @ Washington Capitals (12/20 12:30 PM ET)
-https://tvpass.org/live/NHLNetwork/sd
-#EXTINF:-1 tvg-id="" tvg-name="Edmonton Oilers @ Minnesota Wild (12/20 3:00 PM ET)" group-title="NHL",Edmonton Oilers @ Minnesota Wild (12/20 3:00 PM ET)
-https://tvpass.org/live/NHL15/sd
-#EXTINF:-1 tvg-id="" tvg-name="New York Islanders @ Buffalo Sabres (12/20 5:00 PM ET)" group-title="NHL",New York Islanders @ Buffalo Sabres (12/20 5:00 PM ET)
-https://tvpass.org/live/NHL09/sd
-#EXTINF:-1 tvg-id="" tvg-name="Philadelphia Flyers @ New York Rangers (12/20 12:30 PM ET)" group-title="NHL",Philadelphia Flyers @ New York Rangers (12/20 12:30 PM ET)
-https://tvpass.org/live/NHL21/sd
-#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Penguins @ Montréal Canadiens (12/20 7:00 PM ET)" group-title="NHL",Pittsburgh Penguins @ Montréal Canadiens (12/20 7:00 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Buffalo Sabres @ New Jersey Devils (12/21 7:10 PM ET)" group-title="NHL",Buffalo Sabres @ New Jersey Devils (12/21 7:10 PM ET)
+https://tvpass.org/live/NHL17/sd
+#EXTINF:-1 tvg-id="" tvg-name="Colorado Avalanche @ Minnesota Wild (12/21 6:10 PM ET)" group-title="NHL",Colorado Avalanche @ Minnesota Wild (12/21 6:10 PM ET)
+https://tvpass.org/live/NHL13/sd
+#EXTINF:-1 tvg-id="" tvg-name="Montréal Canadiens @ Pittsburgh Penguins (12/21 7:10 PM ET)" group-title="NHL",Montréal Canadiens @ Pittsburgh Penguins (12/21 7:10 PM ET)
 https://tvpass.org/live/NHL10/sd
-#EXTINF:-1 tvg-id="" tvg-name="Seattle Kraken @ San Jose Sharks (12/20 10:00 PM ET)" group-title="NHL",Seattle Kraken @ San Jose Sharks (12/20 10:00 PM ET)
-https://tvpass.org/live/NHL16/sd
-#EXTINF:-1 tvg-id="" tvg-name="St Louis Blues @ Florida Panthers (12/20 6:00 PM ET)" group-title="NHL",St Louis Blues @ Florida Panthers (12/20 6:00 PM ET)
-https://tvpass.org/live/NHL22/sd
-#EXTINF:-1 tvg-id="" tvg-name="Toronto Maple Leafs @ Nashville Predators (12/20 7:00 PM ET)" group-title="NHL",Toronto Maple Leafs @ Nashville Predators (12/20 7:00 PM ET)
-https://tvpass.org/live/NHL19/sd
-#EXTINF:-1 tvg-id="" tvg-name="Vancouver Canucks @ Boston Bruins (12/20 7:00 PM ET)" group-title="NHL",Vancouver Canucks @ Boston Bruins (12/20 7:00 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="New York Rangers @ Nashville Predators (12/21 7:10 PM ET)" group-title="NHL",New York Rangers @ Nashville Predators (12/21 7:10 PM ET)
+https://tvpass.org/live/NHL23/sd
+#EXTINF:-1 tvg-id="" tvg-name="Ottawa Senators @ Boston Bruins (12/21 7:10 PM ET)" group-title="NHL",Ottawa Senators @ Boston Bruins (12/21 7:10 PM ET)
+https://tvpass.org/live/NHL18/sd
+#EXTINF:-1 tvg-id="" tvg-name="Toronto Maple Leafs @ Dallas Stars (12/21 7:10 PM ET)" group-title="NHL",Toronto Maple Leafs @ Dallas Stars (12/21 7:10 PM ET)
 https://tvpass.org/live/NHLNetwork/sd
-#EXTINF:-1 tvg-id="" tvg-name="Vegas Golden Knights @ Calgary Flames (12/20 10:00 PM ET)" group-title="NHL",Vegas Golden Knights @ Calgary Flames (12/20 10:00 PM ET)
+#EXTINF:-1 tvg-id="" tvg-name="Vegas Golden Knights @ Edmonton Oilers (12/21 8:10 PM ET)" group-title="NHL",Vegas Golden Knights @ Edmonton Oilers (12/21 8:10 PM ET)
 https://tvpass.org/live/NHL28/sd
+#EXTINF:-1 tvg-id="" tvg-name="Washington Capitals @ Detroit Red Wings (12/21 1:10 PM ET)" group-title="NHL",Washington Capitals @ Detroit Red Wings (12/21 1:10 PM ET)
+https://tvpass.org/live/NHLNetwork/sd
+#EXTINF:-1 tvg-id="" tvg-name="Winnipeg Jets @ Utah Mammoth (12/21 7:10 PM ET)" group-title="NHL",Winnipeg Jets @ Utah Mammoth (12/21 7:10 PM ET)
+https://tvpass.org/live/NHL01/sd
