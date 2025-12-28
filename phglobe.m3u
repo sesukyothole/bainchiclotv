@@ -77,7 +77,6 @@ https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/0f5clvxn6o/out
 http://161.49.17.2:6610/001/2/ch00000090990000001274/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com****
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png" group-title="Cable Tv [PH]", Animal Planet
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
