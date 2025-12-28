@@ -1,8 +1,5 @@
 #EXTM3U billed-msg="M3U PLAYLIST BY: KSachi"
 
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
-
-
 #EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSscgQIRqlLoNtHDTbq1aJTb4tisHOIiOPrYw&s" group-title="Cable Tv [PH]",ABC 7 Los Angeles
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 
@@ -23,6 +20,11 @@ https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/titl
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title="Cable Tv [PH]"  , Cinema One
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
+https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
+
 ****#EXTINF:-1 tvg-id="" group-title="Cable Tv [PH]" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f7/Abante_TeleTabloid_Logo_2024.png/revision/latest/scale-to-width-down/1200?cb=20241201000205",Abante TeleTabloid
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
@@ -32,7 +34,6 @@ http://161.49.17.2:6610/001/2/ch00000090990000001317/manifest.mpd?JITPDRMType=Wi
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kVVax44.png" group-title="Cable Tv [PH]", ABC Australia
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=389497f9f8584a57b234e27e430e04b7:3b85594c7f88604adf004e45c03511c0
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/abc_aus/default/index.mpd
@@ -248,11 +249,6 @@ http://161.49.17.2:6610/001/2/ch00000090990000001203/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001283/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com****
-
-#EXTINF:-1 group-title="Cable Tv [PH]" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png", Cinema One
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
-https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Cable Tv [PH]",Cinemax
 #KODIPROP:inputstream.adaptive.manifest_type=dash
