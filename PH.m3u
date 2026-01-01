@@ -23,6 +23,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5EAXW-54_lVL1rrgg51KMlKWQGxDPaNyvpA&s" group-title=".PH [WebOS]", .3rsTV
 https://live20.bozztv.com/giatvplayout7/giatv-210631/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title=".PH [WebOS]", .Tap Sports
+https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD" group-title=".PH [WebOS]", .Hope Channel Philippines
 https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
 
