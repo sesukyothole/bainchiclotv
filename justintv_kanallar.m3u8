@@ -22,10 +22,6 @@ https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 https://andro.2385437.xyz/checklist/androstreamliveatv.m3u8
 #EXTINF:-1 tvg-name="Atv" group-title="Ulusal Kanallar",Atv
 https://andro.2385437.xyz/checklist/androstreamliveatv.m3u8
-#EXTINF:-1 tvg-name="Auckland - Newcastle Jets (07:00)" group-title="Maç Yayınları",Auckland - Newcastle Jets (07:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18035110.m3u8
-#EXTINF:-1 tvg-name="Auckland - Newcastle Jets (07:00)" group-title="Maç Yayınları",Auckland - Newcastle Jets (07:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18035110.m3u8
 #EXTINF:-1 tvg-name="Baskonia - Fenerbahçe Beko (22:00)" group-title="Maç Yayınları",Baskonia - Fenerbahçe Beko (22:00)
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-name="Bayern Münih - Maccabi Fox (23:00)" group-title="Maç Yayınları",Bayern Münih - Maccabi Fox (23:00)
@@ -146,14 +142,14 @@ https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
 https://andro.2385437.xyz/checklist/androstreamliveht.m3u8
 #EXTINF:-1 tvg-name="Ht Spor" group-title="Spor",Ht Spor
 https://andro.2385437.xyz/checklist/androstreamliveht.m3u8
-#EXTINF:-1 tvg-name="Incheon KAL Jumbos - Daejeon Samsung Fire Bluefangs (08:00)" group-title="Maç Yayınları",Incheon KAL Jumbos - Daejeon Samsung Fire Bluefangs (08:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18035273.m3u8
-#EXTINF:-1 tvg-name="Incheon KAL Jumbos - Daejeon Samsung Fire Bluefangs (08:00)" group-title="Maç Yayınları",Incheon KAL Jumbos - Daejeon Samsung Fire Bluefangs (08:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18035273.m3u8
 #EXTINF:-1 tvg-name="Indiana Hoosiers - Alabama (23:59)" group-title="Maç Yayınları",Indiana Hoosiers - Alabama (23:59)
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="Karşiyaka - Tofaş (19:00)" group-title="Maç Yayınları",Karşiyaka - Tofaş (19:00)
 https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-name="Küba - Sırbistan (09:10)" group-title="Maç Yayınları",Küba - Sırbistan (09:10)
+https://andro.2385437.xyz/checklist/androstreamlivech18035450.m3u8
+#EXTINF:-1 tvg-name="Küba - Sırbistan (09:10)" group-title="Maç Yayınları",Küba - Sırbistan (09:10)
+https://andro.2385437.xyz/checklist/androstreamlivech18035450.m3u8
 #EXTINF:-1 tvg-name="Liverpool - Leeds United (20:30)" group-title="Maç Yayınları",Liverpool - Leeds United (20:30)
 https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-name="Nba Tv" group-title="Spor",Nba Tv
@@ -228,6 +224,10 @@ https://andro.2385437.xyz/checklist/androstreamlivetb7.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivetb8.m3u8
 #EXTINF:-1 tvg-name="Tabi Spor 8" group-title="Diğer Kanallar",Tabi Spor 8
 https://andro.2385437.xyz/checklist/androstreamlivetb8.m3u8
+#EXTINF:-1 tvg-name="Taiwan Normal University - Tajen University (06:00)" group-title="Maç Yayınları",Taiwan Normal University - Tajen University (06:00)
+https://andro.2385437.xyz/checklist/androstreamlivech18035159.m3u8
+#EXTINF:-1 tvg-name="Taiwan Normal University - Tajen University (06:00)" group-title="Maç Yayınları",Taiwan Normal University - Tajen University (06:00)
+https://andro.2385437.xyz/checklist/androstreamlivech18035159.m3u8
 #EXTINF:-1 tvg-name="Texas Tech - Oregon (20:00)" group-title="Maç Yayınları",Texas Tech - Oregon (20:00)
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="Tivibu Spor" group-title="Tivibu",Tivibu Spor
