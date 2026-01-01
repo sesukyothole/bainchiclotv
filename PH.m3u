@@ -2190,7 +2190,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pphd_sdi1/default/index.mp
 #KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
 https://honortvph.dpdns.org/1093/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="https://get.perfecttv.net/logo/spotvfhd.png", .Spotv FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cable Tv [PH]" tvg-logo="https://get.perfecttv.net/logo/spotvfhd.png", .Spotv FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2199,7 +2199,7 @@ https://honortvph.dpdns.org/1093/manifest.mpd
 #https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=spotvfhd|authorization=Bearer 
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=spotvfhd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title=".PH [WebOS]" tvg-logo="https://get.perfecttv.net/logo/spotv2fhd.png", .Spotv2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cable Tv [PH]" tvg-logo="https://get.perfecttv.net/logo/spotv2fhd.png", .Spotv2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
