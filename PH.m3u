@@ -29,6 +29,9 @@ https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 #EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD" group-title=".PH [WebOS]", .Hope Channel Philippines
 https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Z sine(tagalog dub)" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title=".PH [WebOS]", .Z sine(tagalog dub)
+https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PremierSports.ph@SD" group-title=".PH [WebOS]", .Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
 
