@@ -1969,10 +1969,15 @@ http://kstv.us:8080/DBeverly/2290061890/47642
 https://7pal.short.gy/espnus*****
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="Cable Tv [Sports]", ESPN
-http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/1262.m3u8
+http://supersonictv.live:8080/611366/682256/22198
+*****http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/1262.m3u8*****
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxRMV2G1q3dXWyhbC_BpMpCWMkfQAigmoiuQ&s" group-title="Cable Tv [Sports]", ESPN 2
-http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/95868.m3u8
+http://supersonictv.live:8080/611366/682256/22199
+*****http://cchelp.xyz:826/live/Chine611/DEht5fmfT2/95868.m3u8*****
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/500b1f7c-dad5-33f9-907c-87427babe201.png" group-title="Cable Tv [Sports]", ESPN U
+http://supersonictv.live:8080/611366/682256/22202
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvIHVF-xsnBXCyl8lFzufEOLgFf5jdN_1EnQ&s" group-title="Cable Tv [Sports]", Horse & Country
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
