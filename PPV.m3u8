@@ -8,7 +8,7 @@ https://gg.poocloud.in/ESPN/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/chicagobears/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/chicagobears/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/62fd0e19b395aa9aa9170cf7f1a46450-thumbnail.jpg" group-title="PPVLand - NFL Action",San Francisco 49ers vs. Philadelphia Eagles
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -19,11 +19,6 @@ https://gg.poocloud.in/philadelphiaeagles/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/newenglandpatriots/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/90bc034d1e1d2d74fff77be802b4bf63-thumbnail.jpg" group-title="PPVLand - NFL Action",Houston Texans vs. Pittsburgh Steelers
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 #EXTINF:-1 tvg-id="Misc.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/133beba7b8cbe3c0a88fb0faf7048588-thumbnail.jpg" group-title="PPVLand - Cricket",Australia vs. England
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -43,7 +38,7 @@ https://gg.poocloud.in/afcon/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/pl_ful/index.m3u8
+https://gg.poocloud.in/pl_ful/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6bc8eff293d4a87318fb3af3bba8b904-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Sevilla vs. Celta Vigo
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -68,4 +63,4 @@ https://gg.poocloud.in/familyguy/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/thesimpsons/index.m3u8
+https://gg.poocloud.in/thesimpsons/tracks-v1a1/mono.ts.m3u8
