@@ -500,8 +500,8 @@ http://tv14s.xyz:8080/A1Jay5/362586/101825
 ****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/GMAIntegratedNews.svg" group-title="Cable Tv [PH]"", GMA News TV
 http://vipgerretger.top:8080/VIP015591737373165310/a2376cb85e0c/34749*****
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/GMAIntegratedNews.svg" group-title="Cable Tv [PH]"", GMA News TV
-http://fo.dnsoso.us/live/9b91a675f1/9b87vm9lcc/500967.m3u8
+*****#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/GMAIntegratedNews.svg" group-title="Cable Tv [PH]"", GMA News TV
+http://fo.dnsoso.us/live/9b91a675f1/9b87vm9lcc/500967.m3u8*****
 
 ****#EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Cable Tv [PH]", GMA 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
