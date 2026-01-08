@@ -2,24 +2,20 @@ import requests
 import sys
 from pathlib import Path
 
-TIMEOUT = 10  # seconds
+TIMEOUT = 10
 VALID_CONTENT_TYPES = [
-    "application/vnd.apple.mpegurl",  # .m3u8
-    "application/x-mpegURL",           # .m3u8
+    "application/vnd.apple.mpegurl",
+    "application/x-mpegURL",
     "video/mp4",
     "audio/mpeg",
     "video/ts",
     "video/x-flv",
 ]
 
-def is_stream_playable(url: str) -> bool:
-    """
-    Check if a stream URL is likely playable in a media player.
-    Checks HTTP status and content type.
-    """
+def is_stream_playable(url: str, headers=None) -> bool:
+    headers = headers or {}
     try:
-        # Try HEAD first to get content type quickly
-        response = requests.head(url, timeout=TIMEOUT, allow_redirects=True)
+        response = requests.head(url, headers=headers, timeout=TIMEOUT, allow_redirects=True)
         if response.status_code < 400:
             content_type = response.headers.get("Content-Type", "").split(";")[0]
             if content_type in VALID_CONTENT_TYPES:
@@ -27,9 +23,8 @@ def is_stream_playable(url: str) -> bool:
     except requests.RequestException:
         pass
 
-    # Fallback to GET if HEAD fails or doesn't provide content type
     try:
-        response = requests.get(url, timeout=TIMEOUT, stream=True)
+        response = requests.get(url, headers=headers, timeout=TIMEOUT, stream=True)
         if response.status_code < 400:
             content_type = response.headers.get("Content-Type", "").split(";")[0]
             return content_type in VALID_CONTENT_TYPES
@@ -38,31 +33,47 @@ def is_stream_playable(url: str) -> bool:
 
     return False
 
-
 def filter_m3u_playlist(input_path: str, output_path: str):
-    """
-    Reads an .m3u or .m3u8 playlist, filters playable URLs,
-    and writes a new playlist.
-    """
     with open(input_path, "r", encoding="utf-8") as f:
         lines = [line.rstrip() for line in f]
 
     output_lines = []
     buffer_tags = []
+    buffer_vlcopt = []
 
     for line in lines:
-        if line.startswith("#"):
+        if line.startswith("#EXTINF"):
             buffer_tags.append(line)
+        elif line.startswith("#EXTVLCOPT"):
+            buffer_vlcopt.append(line)
         elif line.strip():
             url = line.strip()
+            # Convert VLC options to HTTP headers
+            headers = {}
+            for opt in buffer_vlcopt:
+                if opt.startswith("#EXTVLCOPT:"):
+                    key_value = opt[len("#EXTVLCOPT:"):].split("=", 1)
+                    if len(key_value) == 2:
+                        key, value = key_value
+                        key = key.lower()
+                        if key == "http-referrer":
+                            headers["Referer"] = value
+                        elif key == "http-origin":
+                            headers["Origin"] = value
+                        elif key == "http-user-agent":
+                            headers["User-Agent"] = value
+
             print(f"Checking: {url}")
-            if is_stream_playable(url):
+            if is_stream_playable(url, headers=headers):
                 print("  ✓ Playable")
                 output_lines.extend(buffer_tags)
+                output_lines.extend(buffer_vlcopt)
                 output_lines.append(url)
             else:
                 print("  ✗ Not playable")
+
             buffer_tags = []
+            buffer_vlcopt = []
 
     with open(output_path, "w", encoding="utf-8") as f:
         f.write("\n".join(output_lines) + "\n")
