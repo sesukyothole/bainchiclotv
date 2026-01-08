@@ -37,7 +37,7 @@ def filter_m3u_playlist(input_path: str, output_path: str):
     with open(input_path, "r", encoding="utf-8") as f:
         lines = [line.rstrip() for line in f]
 
-    output_lines = []
+    output_lines = ["#EXTM3U"]
     buffer_tags = []
     buffer_vlcopt = []
 
