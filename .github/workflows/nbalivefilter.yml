@@ -24,10 +24,10 @@ jobs:
           python-version: '3.11'
 
       - name: 📦 Install required Python dependency
-        run: pip install requests
+        run: pip3 install requests
 
       - name: 🎯 Run scraping script
-        run: python nbalivefilter.py nbaglobe.m3u nbalivefilter.m3u8
+        run: python3 nbalivefilter.py nbaglobe.m3u nbalivefilter.m3u8
 
       - name: 💾 Commit & Safely Push if Playlist Changed
         env:
