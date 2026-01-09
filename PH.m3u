@@ -113,8 +113,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/i
 #EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJj494OpI0bKrTrvcHqEkzMYzqtfLNdWjQrg&s" group-title="Cable TV [Mix]",Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Amazing Race" tvg-name="Amazing Race" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0i1CNk0r3wHIgkM652LIW-NS_PpQCbJ3Sjw&s" group-title="Cable TV [Mix]",Amazing Race
-https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
+*****#EXTINF:-1 tvg-id="Amazing Race" tvg-name="Amazing Race" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0i1CNk0r3wHIgkM652LIW-NS_PpQCbJ3Sjw&s" group-title="Cable TV [Mix]",Amazing Race
+https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8*****
 
 #EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://yt3.googleusercontent.com/4RMsaQKiNd5Fgbc90h2taWH_9U-v4ou89TapOb0gvqqRJDTsqnMfZjA6jLRqVFdT1ko7yOArzFA=s900-c-k-c0x00ffffff-no-rj" group-title="Cable TV [Mix]",Ani-One
 https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
