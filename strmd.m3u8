@@ -1,156 +1,126 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Sacramento Kings vs Houston Rockets" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphSCkFEJRDcQJEChB8QEEKYAmIGLtwEKTPqrZgy8IvNGqmtMM7GiIQA.webp" group-title="Streamed",Sacramento Kings vs Houston Rockets
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/XiwQMvyOTTDdvEyIHPqxcowpksscNWUO/admin/stream/sacramentokings/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Golden State Warriors vs Atlanta Hawks" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4haWMCBAATEBBCrdiEiBg6QfPSBQhlhGMCZ8UXMGXhF5ol01pg3YqIQQA.webp" group-title="Streamed",Golden State Warriors vs Atlanta Hawks
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/ynHmQRCCeIMjmDBcYSNNnGNxzSVwlYxq/admin/stream/goldenstatewarriors/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="New England Patriots vs Los Angeles Chargers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm1Xr0IwQ3ECpAG+II4gggUOkDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Streamed",New England Patriots vs Los Angeles Chargers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/XdpDpGBOzURGkWoKYXVuyTlphzjmayah/admin/stream/newenglandpatriots/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Denver Nuggets vs Milwaukee Bucks" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1ZhQYUXxAwQ3EABNcukCRAoQEEFp2MKTPii4by9eaMdNaYDWNEQgA.webp" group-title="Streamed",Denver Nuggets vs Milwaukee Bucks
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/veAiLOBQVIXqcsinBXdDZpLcfguoDGnr/admin/stream/denvernuggets/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Phoenix Suns vs Washington Wizards" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnngQ7ECjB8Q3EABNcukCU0gIIHThQEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Streamed",Phoenix Suns vs Washington Wizards
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/TKAmyHJOsggCBPrVIlCUJomAsblATeEW/admin/stream/phoenixsuns/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="San Jose Sharks vs Vegas Golden Knights" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJnRAQQJXCG4g1+kCh0hERoyBMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Streamed",San Jose Sharks vs Vegas Golden Knights
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/wRrBtMJFdxpOqtgHgqjuKYIuQVAvaKJU/admin/stream/sanjosesharks/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atletico de San Luis vs Tigres" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzCgQ6mMAAmYddxB8QMEPoi4QiQ8ZAEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Streamed",Atletico de San Luis vs Tigres
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/fDSFMlQlYNeZDFNbbnrEUvXGsuBSlJuC/echo/stream/atletico-san-luis-vs-tigres-uanl-football-1491799/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Adelaide International: Centre Court: Day 1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Adelaide International: Centre Court: Day 1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/aBmeJTxQwfsMEgdbLiDhdsIHKyHNgmws/charlie/stream/centre-court-day-1-1629473343/1/playlist.m3u8
+https://lb8.strmd.top/secure/wouBpsMVxHrwhjCdoUvyWCxneovOnktw/charlie/stream/centre-court-day-1-1629473343/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Adelaide International: Show Court 1: Day 1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Adelaide International: Show Court 1: Day 1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/pFCdJsybPyxmaYFvNdRAlYEcZvikioMQ/charlie/stream/show-court-1-day-1-1629473342/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Golden State Warriors vs Atlanta Hawks" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Golden State Warriors vs Atlanta Hawks
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/mQTPxLlmDOeQbXoiAhIbYIZkzZRhCNni/delta/stream/live_nba_warriors-hawks-live-streaming-427914576/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="New England Patriots vs Los Angeles Chargers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="Streamed",New England Patriots vs Los Angeles Chargers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/VEfcJmPQdydCMhtTiRDNDmriHITiwdjS/delta/stream/live_nfl_patriots-chargers-live-streaming-489526416/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Minnesota Timberwolves vs San Antonio Spurs" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzlhRtXvhDcQAE20GQIEiBTGQiPgQpMrXNeXrzRKYE1pg1Y0RCA.webp" group-title="Streamed",Minnesota Timberwolves vs San Antonio Spurs
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/MMDVtBYpbBgMKheTKFcTZwCOKTalkZqL/admin/stream/minnesotatimberwolves/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Oklahoma City Thunder vs Miami Heat" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkAJiA18wIVSG56IIPrn0gjJjfAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Streamed",Oklahoma City Thunder vs Miami Heat
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/QUAmJqSbLISmshDhpIMBfppQYaoVEyws/admin/stream/oklahomacitythunder/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Nashville Predators vs Washington Capitals" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApVzHuu4htAExCIQqkHxAQQMECVwEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Streamed",Nashville Predators vs Washington Capitals
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/SMnkMhDboBhIRHttVhVQnSQusGxgPzdq/admin/stream/nashvillepredators/1/playlist.m3u8
+https://lb8.strmd.top/secure/WymeZDDrnjFfDJoiDpHohmFOcAGepeVc/charlie/stream/show-court-1-day-1-1629473342/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Utah Mammoth vs Columbus Blue Jackets" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjkU0PpBDcQEXNpB8QKfSRCJlhGMCZ8UXMGVX15o+01phHY0RCA.webp" group-title="Streamed",Utah Mammoth vs Columbus Blue Jackets
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/nOzcAtXDzOdaJWFPnSRTsMCMCMEGHhaQ/admin/stream/utahmammoth/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="San Jose Sharks vs Vegas Golden Knights" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",San Jose Sharks vs Vegas Golden Knights
+https://lb1.strmd.top/secure/BJCrPISHqNhQatzoGVCrHfhPDDIfJGKJ/admin/stream/utahmammoth/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Nashville Predators vs Washington Capitals" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApVzHuu4htAExCIQqkHxAQQMECVwEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Streamed",Nashville Predators vs Washington Capitals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/tCgrsPMuysQJtZHEbVZjfccUrPcDmnZd/delta/stream/live_nhl_sharks-golden-knights-live-streaming-488294784/1/playlist.m3u8
+https://lb4.strmd.top/secure/byXGsLrMNIlWTTHkMGjrBzMEgvioXUgQ/admin/stream/nashvillepredators/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Matias vs Smith" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="Streamed",Matias vs Smith
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/MfTtISlJJjCkUsBYVaxPxURNyHMhhVrh/delta/stream/live-event_matias-vs-smith-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Denver Nuggets vs Milwaukee Bucks" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Denver Nuggets vs Milwaukee Bucks
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/njCijErhoqQWihFPuMOEasheOvleflUB/delta/stream/live_nba_nuggets-bucks-live-streaming-427913712/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Phoenix Suns vs Washington Wizards" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Phoenix Suns vs Washington Wizards
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/QAmYPFqLccOcIHmfdwCOzySONaxFAWEW/delta/stream/live_nba_suns-wizards-live-streaming-427914144/1/playlist.m3u8
+https://lb8.strmd.top/secure/CijziEyrkbYzQinvEVTqZDcYDVTwvXGs/delta/stream/live-event_matias-vs-smith-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Women's Super Smash: Otago Sparks vs Auckland Hearts" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title="Streamed",Women's Super Smash: Otago Sparks vs Auckland Hearts
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/LckoSifDmPsSTBrAROljaCkjuatVToRa/charlie/stream/otago-sparks-vs-auckland-hearts-1629473337/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Mirassol vs Sao Paulo" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIKiH71yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title="Streamed",Mirassol vs Sao Paulo
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/QavGNWwNPTRmwnqiRPLhAMGzBBCJKZXQ/echo/stream/mirassol-vs-sao-paulo-football-1500517/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="New York Knicks vs. Portland Trail Blazers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAghaETmJYhEQ8o1uSrjkMwAmdsefOJGHLwgQoY4wF4gOPwwwHh6dGAsClaSQrRx5GCJwFZCEEA.webp" group-title="Streamed",New York Knicks vs. Portland Trail Blazers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/YHmgSnZwszkNWFaijwwrwaBtwFPdyGZb/admin/stream/portlandtrailblazers/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Philadelphia 76ers vs. Toronto Raptors" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShBAATEOUtDyLECClnJHEIRD3sMBwzed-lq7e9jbA5v5mgvwwwHh6dGAsChD+QrRx5GCJwClCEEA.webp" group-title="Streamed",Philadelphia 76ers vs. Toronto Raptors
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/xrdxUcURrnMATTWixTRZTZavqkSTnnYI/admin/stream/torontoraptors/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: ANZ Arena (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: ANZ Arena (Qualifying) (First Round)
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/TtbYHrnrsxPMVgiNbAYJNBZxREyXQPAg/charlie/stream/anz-arena-qualifying-first-round-1629473323/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 5 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 5 (Qualifying) (First Round)
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/UdaLmSEoImzFjhpltMeMzNsOPFPWOcLk/charlie/stream/court-5-qualifying-first-round-1629473333/1/playlist.m3u8
+https://lb8.strmd.top/secure/ZhYuJlcSzAMRFzrLlSWnBPrxpxdrqZKE/charlie/stream/otago-sparks-vs-auckland-hearts-1629473337/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 12 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 12 (Qualifying) (First Round)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/AdbnrEIMAVlVdxBbLPELuSsyaMRWlHmW/charlie/stream/court-12-qualifying-first-round-1629473325/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 6 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 6 (Qualifying) (First Round)
+https://lb2.strmd.top/secure/VPJIMLNrWfmTDxUnjyjMzoJtwoMrvtFx/charlie/stream/court-12-qualifying-first-round-1629473325/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Kia Arena (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Kia Arena (Qualifying) (First Round)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/urtImnUOdbasDPnaDnuYfpOkdTpnRXIE/charlie/stream/court-6-qualifying-first-round-1629473326/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 16 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 16 (Qualifying) (First Round)
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/QFQElfZdXECyLxxucmypSGaeZKHJLBCs/charlie/stream/court-16-qualifying-first-round-1629473327/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 7 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 7 (Qualifying) (First Round)
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/oHZNEZPsULIftpHHPwBWGMXcmzVpiGDW/charlie/stream/court-7-qualifying-first-round-1629473335/1/playlist.m3u8
+https://lb2.strmd.top/secure/ALahTBVVmepToGizACkZOFYTvaNcfjGt/charlie/stream/kia-arena-qualifying-first-round-1629473324/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 17 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 17 (Qualifying) (First Round)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/AMlWcunMejHlWmVxWWYttSEXnpPTuVeF/charlie/stream/court-17-qualifying-first-round-1629473329/1/playlist.m3u8
+https://lb6.strmd.top/secure/GZJrvVMeWrUlttrkgaLYkfpJZengNbxd/charlie/stream/court-17-qualifying-first-round-1629473329/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 14 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 14 (Qualifying) (First Round)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/GpJeggLmPSUlxrhvVRUyakRrlzdxelzr/charlie/stream/court-14-qualifying-first-round-1629473334/1/playlist.m3u8
+https://lb1.strmd.top/secure/TiNFGGPdQgEbpxtzrkRdcKYBxgSoRfAr/charlie/stream/court-14-qualifying-first-round-1629473334/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 13 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 13 (Qualifying) (First Round)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/EcSrRYXMdxxLOEbFbfUeySBdceckrjqS/charlie/stream/court-13-qualifying-first-round-1629473332/1/playlist.m3u8
+https://lb8.strmd.top/secure/JklKfVFNurftilYFNqZZyrPQTDJHdtOP/charlie/stream/court-13-qualifying-first-round-1629473332/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 8 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 8 (Qualifying) (First Round)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/nXrCGDKblmyxQSLgPUCTxOfUdpZXOXVn/charlie/stream/court-8-qualifying-first-round-1629473331/1/playlist.m3u8
+https://lb1.strmd.top/secure/jdGOxlfsZKEfrutSNBvGBKMAaOWILSYD/charlie/stream/court-8-qualifying-first-round-1629473331/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 16 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 16 (Qualifying) (First Round)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/IcIJFjTSDHFrmOtVZmechkeyoYmPCXKj/charlie/stream/court-16-qualifying-first-round-1629473327/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 15 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 15 (Qualifying) (First Round)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/imGKgoSkVTKxHHXfzShdUyyTozLMBjIB/charlie/stream/court-15-qualifying-first-round-1629473336/1/playlist.m3u8
+https://lb8.strmd.top/secure/bFnvQmxgdRctryfnfsvbJJcZpMSMHjfJ/charlie/stream/court-15-qualifying-first-round-1629473336/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 7 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 7 (Qualifying) (First Round)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/TeZGHizIfIvCCRzuGbvrJPVGrUoxrqMW/charlie/stream/court-7-qualifying-first-round-1629473335/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 5 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 5 (Qualifying) (First Round)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/YmJEgnCrIZebNRhqRllixJxphYLwHrwH/charlie/stream/court-5-qualifying-first-round-1629473333/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 6 (Qualifying) (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open: Court 6 (Qualifying) (First Round)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/RfCJNoVyZBBYhpzdErVESItKuncvnaJm/charlie/stream/court-6-qualifying-first-round-1629473326/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Wild West Shootout  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Wild West Shootout  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/UKIbpjxfxWkJRiBFBJtLyeinlNoHbwLl/echo/stream/ppv-event-03-wild-west-shootout-ppv-03/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Washington Huskies vs Ohio State Buckeyes" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Washington Huskies vs Ohio State Buckeyes
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/yPyjNmbUngyaHSxaDtaYgWAiXPTZUrJu/delta/stream/live_ncaa_washington-ohio-state-live-streaming-461199312/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Boston Bruins vs Pittsburgh Penguins" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCAAmIFAvrkGAY2bAwPeJKpTCDVmB1tcEIA.webp" group-title="Streamed",Boston Bruins vs Pittsburgh Penguins
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/qDoaAxllJvNFSHLdFOwWtvlUcIFFTGyC/echo/stream/boston-bruins-vs-pittsburgh-penguins-hockey-416329/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="NFL: San Francisco 49ers vs Philadelphia Eagles" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCBZmQIBjhCJyjcnc6dewCM4AmUy+4gg-7vQgzA5uILTu5h78MMB4enRgLArukkK08eRgSW6sbkA.webp" group-title="Streamed",NFL: San Francisco 49ers vs Philadelphia Eagles
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/VgFfChEMMEUuVywQDspKKxWgZNnxcLrd/charlie/stream/san-francisco-49ers-vs-philadelphia-eagles-1629473319/1/playlist.m3u8
+https://lb8.strmd.top/secure/ZwCRUWCKfNREltfKMOsRohbMvkTkDErc/echo/stream/ppv-event-03-wild-west-shootout-ppv-03/1/playlist.m3u8
