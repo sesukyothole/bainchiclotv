@@ -21,3 +21,10 @@ http://supersonictv.live:8080/611366/682256/40395
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a038d04b7d0dd22c82ea624723b0b8e:3240f2e23952c853d4eda4f0675ee13d
 https://live.corusdigitaldev.com/groupd/live/fa24b652-0688-4813-b6d8-bb25998cacb1/corus-home.isml/.mpd
+
+#EXTINF:-1 group-title="Cable TV [Mix]" tvg-id="" tvg-logo="", FX Canada
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:43c851db92519761855ee888d342b003
+https://da-d87be7f42001056a00020c260000000000000244.id.cdn.telus.com/wp/lott5-web-opus.cdn.avp.telus.net/232006004229/vxfmt=dp/manifest.mpd?device_profile=dashvmx
