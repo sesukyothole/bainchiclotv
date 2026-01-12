@@ -1,0 +1,62 @@
+name: Fetch Hodalmi Kawan
+
+on:
+  workflow_dispatch:  # Bisa dijalankan manual
+  schedule:
+    - cron: '0 * * * *'  # Setiap 1 jam
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository publik
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Ambil file mapping dari repo privat
+        run: |
+          git clone --depth=1 https://x-access-token:${{ secrets.TOKEN_PRIVATE }}@github.com/${{ secrets.REPO_PRIVATE }} private
+          cp private/cool_mapping.txt $HOME/cool_mapping.txt
+
+      - name: Jalankan script Python dan simpan output
+        run: |
+          if python serudoon.py > hodalmi.m3u; then
+            echo "✅ Skrip selesai."
+          else
+            echo "❌ Skrip gagal. Tidak akan push file kosong."
+            echo "SKIP_PUSH=true" >> $GITHUB_ENV
+          fi
+
+      - name: Cek jika file kosong atau terlalu kecil
+        run: |
+          if [ ! -s hodalmi.m3u ] || [ "$(wc -c < hodalmi.m3u)" -lt 500 ]; then
+            echo "❌ File kosong atau terlalu kecil, skip push."
+            echo "SKIP_PUSH=true" >> $GITHUB_ENV
+          fi
+
+      - name: Push output ke repo privat
+        if: env.SKIP_PUSH != 'true'
+        run: |
+          cd $HOME
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git clone --depth=1 https://x-access-token:${{ secrets.TOKEN_PRIVATE }}@github.com/${{ secrets.REPO_PRIVATE }} repo-output
+          cp $GITHUB_WORKSPACE/hodalmi.m3u repo-output/
+
+          cd repo-output
+          git add hodalmi.m3u
+          if git diff --cached --quiet; then
+            echo "✅ Tidak ada perubahan"
+          else
+            git commit -m "auto: update hodalmi.m3u"
+            git push
+          fi
