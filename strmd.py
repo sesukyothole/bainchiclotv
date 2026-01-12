@@ -278,7 +278,7 @@ if __name__ == "__main__":
     start = datetime.now()
     log.info("🚀 Starting StreamedSU scrape run (LIVE only)...")
     playlist = asyncio.run(generate_playlist())
-    with open("StreamedSU.m3u8", "w", encoding="utf-8") as f:
+    with open("strmd.m3u8", "w", encoding="utf-8") as f:
         f.write(playlist)
     end = datetime.now()
     duration = (end - start).total_seconds()
