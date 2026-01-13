@@ -26,6 +26,9 @@ jobs:
       - name: 📦 Install required Python dependency
         run: pip3 install requests
 
+      - name: 📦 Install aiohttp
+        run: pip3 install aiohttp
+
       - name: 🎯 Run scraping script
         run: python3 supersonic.py SuperS.m3u supersonic.m3u8
 
