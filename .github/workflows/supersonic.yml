@@ -27,9 +27,9 @@ jobs:
         run: pip3 install requests
 
       - name: 🎯 Run scraping script
-        run: curl -L -o tcl.m3u8 https://www.apsattv.com/tclplus.m3u
+        run: curl -L -o spsonic.m3u8 http://supersonictv.live:8080/get.php?username=611366&password=682256&type=m3u
 
-             python3 tcl.py tcl.m3u8 tcl.m3u8
+             python3 supersonic.py spsonic.m3u8 supersonic.m3u8
 
 
       - name: 💾 Commit & Safely Push if Playlist Changed
@@ -39,7 +39,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions@users.noreply.github.com"
 
-          git add tcl.m3u8
+          git add supersonic.m3u8
 
           if git diff --cached --quiet; then
             echo "✅ No changes to commit"
