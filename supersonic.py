@@ -134,13 +134,13 @@ def filter_m3u_playlist(input_path, output_path):
             playable, extinf, vlcopts, url, title = future.result()
             if playable:
                 print(f"✓ Playable: {title} ({url})")
-                # Add group-title="TCL+" to EXTINF line
+                # Add group-title="Supersonic" to EXTINF line
                 if extinf:
                     parts = extinf[0].split(",", 1)
                     if len(parts) == 2:
-                        extinf[0] = f'{parts[0]} group-title="TCL+",{parts[1]}'
+                        extinf[0] = f'{parts[0]} group-title="Supersonic",{parts[1]}'
                     else:
-                        extinf[0] = f'{parts[0]} group-title="TCL+"'
+                        extinf[0] = f'{parts[0]} group-title="Supersonic"'
                 playable_entries.append((title, extinf, vlcopts, url))
             else:
                 print(f"✗ Rejected (blocked domain / tiny segment / unreachable): {url}")
