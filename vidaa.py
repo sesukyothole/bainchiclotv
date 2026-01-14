@@ -2,26 +2,21 @@ import asyncio
 import aiohttp
 import sys
 import time
+import re
 from pathlib import Path
 from urllib.parse import urljoin
 
 # ---------- CONFIG (ADJUSTED & REALISTIC) ----------
-
 TIMEOUT = aiohttp.ClientTimeout(total=12)
-
 MAX_CONCURRENCY = 80
 MAX_HLS_DEPTH = 3
-
 MIN_SPEED_KBPS = 250        # realistic HD threshold
 MAX_TTFB = 4.0              # allow CDN warmup
 SAMPLE_BYTES = 384_000      # read up to 384 KB
 WARMUP_BYTES = 32_000       # ignore first 32 KB for speed
-
 RETRIES = 2                 # retry slow streams once
 
-DEFAULT_HEADERS = {
-    "User-Agent": "Mozilla/5.0"
-}
+DEFAULT_HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 BLOCKED_DOMAINS = {
     "amagi.tv",
@@ -29,12 +24,10 @@ BLOCKED_DOMAINS = {
 }
 
 # ---------- SPEED TEST (WARMED & REALISTIC) ----------
-
 async def stream_is_fast(session, url, headers):
     for attempt in range(RETRIES):
         try:
             start = time.perf_counter()
-
             async with session.get(url, headers=headers) as r:
                 if r.status >= 400:
                     return False
@@ -52,7 +45,6 @@ async def stream_is_fast(session, url, headers):
 
                     total += len(chunk)
 
-                    # warmup period
                     if total < WARMUP_BYTES:
                         continue
 
@@ -82,7 +74,6 @@ async def stream_is_fast(session, url, headers):
     return False
 
 # ---------- STREAM VALIDATION ----------
-
 async def is_stream_fast(session, url, headers, depth=0):
     if depth > MAX_HLS_DEPTH:
         return False
@@ -91,11 +82,9 @@ async def is_stream_fast(session, url, headers, depth=0):
         if d in url:
             return False
 
-    # Non-HLS stream
     if ".m3u8" not in url:
         return await stream_is_fast(session, url, headers)
 
-    # HLS playlist
     try:
         async with session.get(url, headers=headers) as r:
             if r.status >= 400:
@@ -131,7 +120,6 @@ async def is_stream_fast(session, url, headers, depth=0):
     return await stream_is_fast(session, segment_url, headers)
 
 # ---------- WORKER ----------
-
 async def check_stream(semaphore, session, entry):
     extinf, vlcopts, url = entry
     headers = {}
@@ -153,12 +141,15 @@ async def check_stream(semaphore, session, entry):
     if extinf:
         parts = extinf[0].split(",", 1)
         if len(parts) == 2:
-            title = parts[1].strip()
+            # remove leading number from title
+            new_title = re.sub(r'^\d+\s*', '', parts[1])
+            title = new_title.strip()
+        else:
+            title = ""
 
     return fast, title, extinf, vlcopts, url
 
 # ---------- MAIN ----------
-
 async def filter_fast_streams(input_path, output_path):
     lines = Path(input_path).read_text(
         encoding="utf-8", errors="ignore"
@@ -195,11 +186,11 @@ async def filter_fast_streams(input_path, output_path):
                 print(f"✓ FAST: {title}")
                 if extinf:
                     parts = extinf[0].split(",", 1)
-                    extinf[0] = (
-                        f'{parts[0]} group-title="Fast",{parts[1]}'
-                        if len(parts) == 2
-                        else f'{parts[0]} group-title="Fast"'
-                    )
+                    if len(parts) == 2:
+                        new_title = re.sub(r'^\d+\s*', '', parts[1])
+                        extinf[0] = f'{parts[0]} group-title="Fast",{new_title}'
+                    else:
+                        extinf[0] = f'{parts[0]} group-title="Fast"'
                 fast_entries.append((title.lower(), extinf, vlcopts, url))
             else:
                 print(f"✗ SLOW: {url}")
@@ -216,7 +207,6 @@ async def filter_fast_streams(input_path, output_path):
     print(f"\nSaved FAST playlist to: {output_path}")
 
 # ---------- CLI ----------
-
 if __name__ == "__main__":
     if len(sys.argv) != 3:
         print("Usage: python fast_filter.py input.m3u output.m3u")
