@@ -1,517 +1,345 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch561_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", ABC Australia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=561
-https://nowhk.vingt.qzz.io/channel/561/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch325_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Al Jazeera English
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=325
-https://nowhk.vingt.qzz.io/channel/325/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch150_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Animax
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=150
-https://nowhk.vingt.qzz.io/channel/150/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch320_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", BBC News
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=320
-https://nowhk.vingt.qzz.io/channel/320/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", beIN SPORTS 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=638
-https://nowhk.vingt.qzz.io/channel/638/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", beIN SPORTS 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=639
-https://nowhk.vingt.qzz.io/channel/639/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", beIN SPORTS 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=643
-https://nowhk.vingt.qzz.io/channel/643/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch644_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", beIN SPORTS 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=644
-https://nowhk.vingt.qzz.io/channel/644/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", beIN SPORTS 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=645
-https://nowhk.vingt.qzz.io/channel/645/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch646_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", beIN SPORTS 6
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=646
-https://nowhk.vingt.qzz.io/channel/646/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch321_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Bloomberg Television
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=321
-https://nowhk.vingt.qzz.io/channel/321/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch541_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", CCTV-1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=541
-https://nowhk.vingt.qzz.io/channel/541/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch545_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", CCTV-13
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=545
-https://nowhk.vingt.qzz.io/channel/545/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch542_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", CCTV-4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=542
-https://nowhk.vingt.qzz.io/channel/542/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch330_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", CGTN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=330
-https://nowhk.vingt.qzz.io/channel/330/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch322_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Channel NewsAsia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=322
-https://nowhk.vingt.qzz.io/channel/322/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", CINEMAX
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=113
-https://nowhk.vingt.qzz.io/channel/113/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch319_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", CNBC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=319
-https://nowhk.vingt.qzz.io/channel/319/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch316_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", CNN International
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=316
-https://nowhk.vingt.qzz.io/channel/316/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch538_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", CTI Asia Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=538
-https://nowhk.vingt.qzz.io/channel/538/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch551_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Dragon TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=551
-https://nowhk.vingt.qzz.io/channel/551/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch324_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", DW (English)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=324
-https://nowhk.vingt.qzz.io/channel/324/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch162_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", ETTV Asia Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=162
-https://nowhk.vingt.qzz.io/channel/162/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch371_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", ETTV Asia News
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=371
-https://nowhk.vingt.qzz.io/channel/371/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch326_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", euronews
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=326
-https://nowhk.vingt.qzz.io/channel/326/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch327_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", France 24
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=327
-https://nowhk.vingt.qzz.io/channel/327/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch543_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", GBA Satellite TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=543
-https://nowhk.vingt.qzz.io/channel/543/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", HBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=115
-https://nowhk.vingt.qzz.io/channel/115/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", HBO Family
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=112
-https://nowhk.vingt.qzz.io/channel/112/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", HBO Hits
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=111
-https://nowhk.vingt.qzz.io/channel/111/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", HBO Signature
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=114
-https://nowhk.vingt.qzz.io/channel/114/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch156_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", KBS World
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=156
-https://nowhk.vingt.qzz.io/channel/156/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch168_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", MOOV Concert/MV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=168
-https://nowhk.vingt.qzz.io/channel/168/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch116_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", MOVIE MOVIE
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=116
-https://nowhk.vingt.qzz.io/channel/116/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch640_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", MUTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=640
-https://nowhk.vingt.qzz.io/channel/640/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch535_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Netflix
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=535
-https://nowhk.vingt.qzz.io/channel/535/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch328_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", NHK WORLD-JAPAN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=328
-https://nowhk.vingt.qzz.io/channel/328/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch133_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Baogu Movies
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=133
-https://nowhk.vingt.qzz.io/channel/133/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch138_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Baogu Superstars
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=138
-https://nowhk.vingt.qzz.io/channel/138/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch333_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Business News Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=333
-https://nowhk.vingt.qzz.io/channel/333/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch105_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Chinese Drama Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=105
-https://nowhk.vingt.qzz.io/channel/105/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch336_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Data
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=336
-https://nowhk.vingt.qzz.io/channel/336/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch331_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Direct
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=331
-https://nowhk.vingt.qzz.io/channel/331/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch683_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Golf 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=683
-https://nowhk.vingt.qzz.io/channel/683/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch684_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Golf 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=684
-https://nowhk.vingt.qzz.io/channel/684/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now NEWS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=332
-https://nowhk.vingt.qzz.io/channel/332/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=631
-https://nowhk.vingt.qzz.io/channel/631/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=632
-https://nowhk.vingt.qzz.io/channel/632/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=633
-https://nowhk.vingt.qzz.io/channel/633/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=634
-https://nowhk.vingt.qzz.io/channel/634/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports 4K 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=611
-https://nowhk.vingt.qzz.io/channel/611/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch612_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports 4K 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=612
-https://nowhk.vingt.qzz.io/channel/612/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch613_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports 4K 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=613
-https://nowhk.vingt.qzz.io/channel/613/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=635
-https://nowhk.vingt.qzz.io/channel/635/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports 6
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=636
-https://nowhk.vingt.qzz.io/channel/636/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch647_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports 647
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=647
-https://nowhk.vingt.qzz.io/channel/647/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch651_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports 651
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=651
-https://nowhk.vingt.qzz.io/channel/651/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch652_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports 652
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=652
-https://nowhk.vingt.qzz.io/channel/652/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports 7
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=637
-https://nowhk.vingt.qzz.io/channel/637/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch680_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports Plus
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=680
-https://nowhk.vingt.qzz.io/channel/680/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports Premier League 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=621
-https://nowhk.vingt.qzz.io/channel/621/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports Premier League 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=622
-https://nowhk.vingt.qzz.io/channel/622/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports Premier League 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=623
-https://nowhk.vingt.qzz.io/channel/623/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports Premier League 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=624
-https://nowhk.vingt.qzz.io/channel/624/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch625_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports Premier League 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=625
-https://nowhk.vingt.qzz.io/channel/625/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports Premier League 6
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=626
-https://nowhk.vingt.qzz.io/channel/626/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch627_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports Premier League 7
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=627
-https://nowhk.vingt.qzz.io/channel/627/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch620_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports Premier League TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=620
-https://nowhk.vingt.qzz.io/channel/620/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Sports Prime
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=630
-https://nowhk.vingt.qzz.io/channel/630/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch106_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now Video Express
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=106
-https://nowhk.vingt.qzz.io/channel/106/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch668_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Now668
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=668
-https://nowhk.vingt.qzz.io/channel/668/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch108_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", NowJelli
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=108
-https://nowhk.vingt.qzz.io/channel/108/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch200_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Panda TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=200
-https://nowhk.vingt.qzz.io/channel/200/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch548_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Phoenix Chinese Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=548
-https://nowhk.vingt.qzz.io/channel/548/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch366_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Phoenix InfoNews Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=366
-https://nowhk.vingt.qzz.io/channel/366/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch329_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", RT
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=329
-https://nowhk.vingt.qzz.io/channel/329/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch553_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Sansha TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=553
-https://nowhk.vingt.qzz.io/channel/553/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch540_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Shenzhen TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=540
-https://nowhk.vingt.qzz.io/channel/540/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch323_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Sky News
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=323
-https://nowhk.vingt.qzz.io/channel/323/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch600_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Sports Schedule Highlights
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=600
-https://nowhk.vingt.qzz.io/channel/600/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch155_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", tvN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=155
-https://nowhk.vingt.qzz.io/channel/155/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch102_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Viu channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=102
-https://nowhk.vingt.qzz.io/channel/102/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", ViuTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=099
-https://nowhk.vingt.qzz.io/channel/099/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", ViuTVsix
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=096
-https://nowhk.vingt.qzz.io/channel/096/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch400_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Watch N Learn
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=400
-https://nowhk.vingt.qzz.io/channel/400/master.mpd
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch555_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png", Zhejiang Satellite TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nowhk.vingt.qzz.io/license?id=555
-https://nowhk.vingt.qzz.io/channel/555/master.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", A2Z
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/11/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125072025.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", ABC AUSTRALIA
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/72/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125103446.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", AL JAZEERA
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/67/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125129835.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", ALIW TV
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/23/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1764815492502.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", ALL TV
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/4/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219396137.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", ANC HD
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/61/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125337224.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", ARIRANG
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/240/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723194309461.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", BILYONARYO NEWS HD
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/31/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219327674.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", BS FUJI
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/245/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723130002404.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", BS PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/244/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125431025.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/151/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219376954.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CARTOONITO
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/152/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125521068.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CCTV4
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/69/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219252241.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CELESTIAL MOVIES PINOY
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/96/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219296797.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CELESTIALCLASSIC MOVIES
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/105/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125560281.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CGTN
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/70/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125590334.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CHANNEL NEWS ASIA
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/66/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125628005.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CINEMA ONE
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/92/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125660668.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/104/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219276891.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CINEMO
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/93/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125735177.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CLTV36
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/36/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125798255.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CNN
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/62/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723606286242.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", DEUTSCHE WELLE
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/75/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1749519196399.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", DZMM TELERADYO
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/47/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126004028.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", DZRH
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/26/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126027555.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", EDGESPORT
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/167/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126078814.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", EWTN
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/226/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126284675.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", FASHION TV
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/194/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126098951.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", FILAM TV
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/192/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126239977.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", FRANCE 24
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/68/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", GMA 7
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/7/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1735903243498.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", GNN tv44
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/44/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", GTV
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/27/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1733707474289.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", HALLYPOP
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/206/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126386617.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", HBO
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/97/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723128890006.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", IBC 13
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/13/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723605495653.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", INC TV
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/48/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723128953472.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", JEEPNEY TV
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/120/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129013828.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", KAPAMILYA HD
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/15/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129053549.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", KIX
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/123/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723604992973.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", KNOWLEDGE CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/32/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129682729.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", Light TV
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/222/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723605044807.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", LIVING ASIA
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/187/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129704683.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", LOTUS
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/102/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129722508.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", METRO
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/188/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1730362635883.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", MINDANOW
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/186/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129763447.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", MYX
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/205/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129823252.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", NET 25
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/25/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129897469.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", NHK BS1
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/247/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723131229501.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", NHK WORLD
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/71/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723130097999.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", NICK Jr.
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/153/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723131202156.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", ONE SPORTS
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/41/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723131279043.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", ORAS NG HIMALA
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/224/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723612823404.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", PBO
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/91/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723131346405.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", PHOENIX CHINESE
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/243/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723132198713.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", PREMIER FOOTBALL
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/170/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133770267.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", PREMIER SPORTS
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/168/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133748606.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", PREMIER SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/169/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133792284.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", PTV
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/14/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133809689.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", RADIO MARIA
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/225/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133830822.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", RJTV 29
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/29/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133849713.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", ROCK TV OF MANILA
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/207/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133873954.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", RPTV
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/9/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723612444093.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", SAUDI TV
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/73/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133929628.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", SMNI
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/223/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134009531.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", SOLAR FLIX
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/22/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134030645.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", SOLAR SPORTS
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/21/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219661968.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", STAR CHANNEL 1
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/246/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134076089.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TAP ACTION FLIX
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/99/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134099364.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TAP EDGE
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/122/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134117906.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TAP MOVIES
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/98/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134161793.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TAP SPORTS
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/166/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134180637.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TAP TV
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/124/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134224456.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TBN
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/227/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134284048.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", THRILL
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/103/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219688328.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TMC
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/95/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134353936.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TV MARIA
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/221/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134335547.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TV5
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/5/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134373931.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TV5MONDE
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/241/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134391817.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TVE
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/242/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134409636.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", UNTV
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/37/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134428182.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", USA TODAY NEWS
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/65/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219709476.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", VEGAS LIFE
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/193/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134481136.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", VIVA CINEMA
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/94/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134500990.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", WARNER TV
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/121/dopamine/manifest.mpd
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723124083530.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", XINGKONG
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://mc-9inpy92sub.bunny.run/license
+https://mc-9inpy92sub.bunny.run/127/dopamine/manifest.mpd
