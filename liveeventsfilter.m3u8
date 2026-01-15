@@ -29,6 +29,11 @@ http://205.237.104.133/hls/uuuuQQQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://205.237.104.133/hls/uuuuQQ.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-id="Live.Event.us" tvg-name="[Cricket ICC U19 World Cup] Tanzania U19 vs West Indies U19 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Cricket ICC U19 World Cup] Tanzania U19 vs West Indies U19 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://205.237.104.133/hls/uuuu.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-id="Live.Event.us" tvg-name="[Cricket ICC U19 World Cup] Zimbabwe U19 vs Scotland U19 (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Cricket ICC U19 World Cup] Zimbabwe U19 vs Scotland U19 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -79,16 +84,6 @@ https://tookit.shop:2099/storage/af/index.m3u8
 #EXTVLCOPT:http-origin=https://pawastreams.net/verona-vs-bologna/97057/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://tookit.shop:2099/storage/af/index.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-id="Soccer.Dummy.us" tvg-name="[Mexico Liga MX] Tigres UANL vs UNAM Pumas (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Live Events",[Mexico Liga MX] Tigres UANL vs UNAM Pumas (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.106.134/hls/JJJJ.m3u8
-#EXTINF:-1 tvg-chno="64" tvg-id="Soccer.Dummy.us" tvg-name="[Mexico Liga MX] Toluca vs Santos Laguna (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Live Events",[Mexico Liga MX] Toluca vs Santos Laguna (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.106.134/hls/JJJJQ.m3u8
 #EXTINF:-1 tvg-chno="87" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Chicago Bulls vs Utah Jazz (TOTALSPRTK)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Chicago Bulls vs Utah Jazz (TOTALSPRTK)
 #EXTVLCOPT:http-referrer=https://matchify.zip/nba/event3/
 #EXTVLCOPT:http-origin=https://matchify.zip/nba/event3/
@@ -354,6 +349,11 @@ https://streamfree.click/US/NHL4/index.m3u8?st=KjhPVsf6mBD4uwog2z714w&e=17684568
 #EXTVLCOPT:http-origin=https://matchify.zip/events/tracker5/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://matchify.zip/5555.php
+#EXTINF:-1 tvg-chno="239" tvg-id="Live.Event.us" tvg-name="[Tennis ATP] Tennis ATP Aucklander Court (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Tennis ATP] Tennis ATP Aucklander Court (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://205.237.104.133/hls/naaaq.m3u8
 #EXTINF:-1 tvg-chno="240" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis] Tennis ATP-WTA Adelaideer Court (FAWA)" tvg-logo="https://i.gyazo.com/b5e83afc3a75dacfb831abe975fd3821.png" group-title="Live Events",[Tennis] Tennis ATP-WTA Adelaideer Court (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
