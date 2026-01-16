@@ -229,11 +229,6 @@ https://streameast.asia/playlist/stream_7.m3u8?md5=EmO5SA7gKfnTLDCz30LKPg&expire
 #EXTVLCOPT:http-origin=https://hiteasport.info/embed/soccer7.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://streameast.asia/playlist/stream_7.m3u8?md5=EmO5SA7gKfnTLDCz30LKPg&expires=1768572012
-#EXTINF:-1 tvg-chno="93" tvg-id="Live.Event.us" tvg-name="[Singapore Premier League] Tampines vs Young Lions (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Singapore Premier League] Tampines vs Young Lions (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.104.56/hls/kBBBQQQ.m3u8
 #EXTINF:-1 tvg-chno="94" tvg-id="Live.Event.us" tvg-name="[Snooker] Snooker The Masters (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Snooker] Snooker The Masters (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
