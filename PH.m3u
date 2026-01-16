@@ -2761,3 +2761,10 @@ https://live-crave.video.9c9media.com/59c2df870a1e8c5b14c4f5ed7e951e1cef94745817
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5389bf9aa04e467aac818fac7138f8f4:ebb8e28d9081a462015de790e76759f0
 https://live-crave.video.9c9media.com/65a655714b62d8c989ad80dc30e3035b0bfb65b41754945004845/fe/f/crave/starz2/manifest.mpd?u=li
+
+#EXTINF:-1 group-title="Cable TV [Sports]" tvg-id="" tvg-logo="https://www.trustedreviews.com/wp-content/uploads/sites/7/2023/09/Prime-Video-logo.jpg", Prime
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f159241d40e659d58e81bc17ca30da31:6b7fe24f7a16343bd447b0b30f68b7b2
+https://abhha5gaaaaaaaamlv5r4vpvi5mmb.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/rlisfyx9vd/out/v1/61b8f61b22ac469297cbd4f1224f0ec8/cenc.mpd
