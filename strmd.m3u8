@@ -1,66 +1,76 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Kent State vs Toledo" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIFGCQg4atdxAkQRviH2JDhnCoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Streamed",Kent State vs Toledo
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/JoFqBIRccmEEoRBCSKPOuBakiABZguEx/delta/stream/live_ncaa_kent-st-toledo-live-streaming-428337936/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Providence vs Creighton" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTBVSECmIkQ3EDpC6QAE0Mg+JkBHMEKTPlrZgy8IvNFamtMM7GiIQA.webp" group-title="Streamed",Providence vs Creighton
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/CzwdMDbkyvxFGzasyDKFnqinZFpBIOBP/delta/stream/live_ncaa_providence-creighton-live-streaming-428181120/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Brooklyn Nets vs Chicago Bulls" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Brooklyn Nets vs Chicago Bulls
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/ZASPkuPLRFDuhIXMroXnsYqHokahOsTB/delta/stream/live_nba_nets-bulls-live-streaming-428127552/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Toronto Raptors vs Los Angeles Clippers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Toronto Raptors vs Los Angeles Clippers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/AeIsXqMefJGplqzaAnbUusugchwPnaWn/delta/stream/live_nba_raptors-clippers-live-streaming-428128848/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Deportivo Pereira vs Llaneros" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4huYPiBIgAJmzW6D2kCEQ5VKEHwIUm1rmDLwi80SmBNaYR2NEQgA.webp" group-title="Streamed",Deportivo Pereira vs Llaneros
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/jDfSuapzxiCLbvPraZkSnVilBwYoBHOz/echo/stream/deportivo-pereira-vs-llaneros-football-1498269/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Indiana Pacers vs New Orleans Pelicans" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Indiana Pacers vs New Orleans Pelicans
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/IHXzoCUGSMVeElzlsNZAZpEuGQAlOWHs/delta/stream/live_nba_pacers-pelicans-live-streaming-428127984/1/playlist.m3u8
+https://lb3.strmd.top/secure/hLUYNiTLsWlNPYGzInCVBkRfuHxUAKyz/delta/stream/live_nba_pacers-pelicans-live-streaming-428127984/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Philadelphia 76ers vs Cleveland Cavaliers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Philadelphia 76ers vs Cleveland Cavaliers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/nQlDAoRuaxGQMuMbjbVSWNnjuEDdhwbS/delta/stream/live_nba_76ers-cavaliers-live-streaming-428128416/1/playlist.m3u8
+https://lb1.strmd.top/secure/oqdzDDXstvrvnnJhbWdbpqzjCRPziVcu/delta/stream/live_nba_76ers-cavaliers-live-streaming-428128416/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Carolina Hurricanes vs Florida Panthers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Carolina Hurricanes vs Florida Panthers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/IhIFLsVPkzKmtAKBtLqsWlPDkZpeznnT/delta/stream/live_nhl_hurricanes-panthers-live-streaming-488546208/1/playlist.m3u8
+https://lb10.strmd.top/secure/htZzlYCLblCblULjVZGagWfggOckoLZL/delta/stream/live_nhl_hurricanes-panthers-live-streaming-488546208/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Detroit Red Wings vs San Jose Sharks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Detroit Red Wings vs San Jose Sharks
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/mDLbKrlOaNvXxVqYlnbQzVtDjcNUFxsZ/delta/stream/live_nhl_red-wings-sharks-live-streaming-488546640/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Providence Friars vs Creighton Bluejays" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Providence Friars vs Creighton Bluejays
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/QUSRNEjgNTgIZDccHWMglkotmvTujZCV/delta/stream/live_ncaa_providence-creighton-live-streaming-428181120/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Kent State Golden Flashes vs Toledo Rockets" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Kent State Golden Flashes vs Toledo Rockets
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/rGlTdLLbDgSHqcAIhRerXaWBVBVTCNky/delta/stream/live_ncaa_kent-st-toledo-live-streaming-428337936/1/playlist.m3u8
+https://lb9.strmd.top/secure/srWQadRCNUTzxTylYSnvziBwgpihWQbX/delta/stream/live_nhl_red-wings-sharks-live-streaming-488546640/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Golden Boy Promotions: Prelims" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="Streamed",Golden Boy Promotions: Prelims
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/UeebRuKoWzDRheYFVIGZIhQBCunAOALe/charlie/stream/prelims-1629473581/1/playlist.m3u8
+https://lb2.strmd.top/secure/xavKNMJJTFxmkXVfrayqbnqHbShKitTN/charlie/stream/prelims-1629473581/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Wild West Shootout" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Wild West Shootout
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/HPoDbfWJIdEZYUVkIBFEXEWxjBzzhSfx/echo/stream/ppv-event-09-wild-west-shootout-ppv-09/1/playlist.m3u8
+https://lb8.strmd.top/secure/AFKrgDYoOtCHSjussxUQtKHHJZMdaYAI/echo/stream/ppv-event-09-wild-west-shootout-ppv-09/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Rocha v Curiel 2  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Rocha v Curiel 2  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/JCLqLIVDuOHUUZbcblMkFiiLfAbChSjY/echo/stream/ppv-event-04-rocha-v-curiel-2-ppv-004/1/playlist.m3u8
+https://lb1.strmd.top/secure/ZOpFqlpbYyLVVrgaBMjLhnAPhUDkYMSO/echo/stream/ppv-event-04-rocha-v-curiel-2-ppv-004/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Chili Bowl Nationals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Chili Bowl Nationals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/LmHyouFAAENWYlbIqlCwlkynNukdCkMU/echo/stream/ppv-event-08-chili-bowl-nationals-ppv-08/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name=" Chili Bowl Pre Race" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed", Chili Bowl Pre Race
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/kvAAVXxwtDZImrbTLtfcCdoFEkwfnlik/echo/stream/ppv-event-07-chili-bowl-pre-race-ppv-07/1/playlist.m3u8
+https://lb3.strmd.top/secure/bbAzDzIvlBzaXJCEXtBQFqbNhnPeZpBS/echo/stream/ppv-event-08-chili-bowl-nationals-ppv-08/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: Friday Night Smackdown " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="Streamed",WWE: Friday Night Smackdown 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/oehXJzzUxUwFRutJeGaCKnKPeYOlbSEr/echo/stream/wwe-friday-night-smackdown-wwe-009/1/playlist.m3u8
+https://lb8.strmd.top/secure/KuewoRybZDOtOPxQDFTzyZFlRhpEQZhN/echo/stream/wwe-friday-night-smackdown-wwe-009/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="World Series of Darts: Bahrain Darts Masters " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",World Series of Darts: Bahrain Darts Masters 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/lqElMBUYqfFLKWjAzbasxgFQFQDOaDrJ/echo/stream/world-series-of-darts-bahrain-darts-masters-darts-1/1/playlist.m3u8
+https://lb6.strmd.top/secure/lDosOKdKvzKkyEqCOxFNoTSArMZPolXS/echo/stream/world-series-of-darts-bahrain-darts-masters-darts-1/1/playlist.m3u8
