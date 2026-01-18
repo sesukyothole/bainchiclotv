@@ -94,11 +94,6 @@ https://play7ba.peodlc.com/sport/202_4395050_1.m3u8
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edge2caster.pro/hls/uyopzarf50.m3u8?st=vwAx8uLZuIWK2B34uWzdL3SW_AtkDAZ6JX91a_2yxOQ&e=1768773644
-#EXTINF:-1 tvg-chno="80" tvg-id="Live.Event.us" tvg-name="[Israel Ligat ha'Al] Maccabi Haifa vs Maccabi Tel Aviv (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Israel Ligat ha'Al] Maccabi Haifa vs Maccabi Tel Aviv (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://205.237.104.56/hls/QQQQQ.m3u8
 #EXTINF:-1 tvg-chno="83" tvg-id="Soccer.Dummy.us" tvg-name="[Italian Serie A] Lecce vs AC Milan (STRMHUB)" tvg-logo="https://streamhub.pro/uploads/categories/1756217038_12.png" group-title="Live Events",[Italian Serie A] Lecce vs AC Milan (STRMHUB)
 #EXTVLCOPT:http-referrer=https://storytrench.net/
 #EXTVLCOPT:http-origin=https://storytrench.net/
@@ -182,6 +177,11 @@ https://cd.tookit.shop:2053/storage/n1/index.m3u8
 #EXTINF:-1 tvg-chno="117" tvg-id="Live.Event.us" tvg-name="[Live Event] Los Angeles Rams vs Chicago Bears (PAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Los Angeles Rams vs Chicago Bears (PAWA)
 #EXTVLCOPT:http-referrer=https://pawastreams.net/los-angeles-rams-v-chicago-bears/97399/
 #EXTVLCOPT:http-origin=https://pawastreams.net/los-angeles-rams-v-chicago-bears/97399/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://cd.tookit.shop:2053/storage/n2/index.m3u8
+#EXTINF:-1 tvg-chno="118" tvg-id="Live.Event.us" tvg-name="[Live Event] Los Angeles Rams – Chicago Bears (PAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Los Angeles Rams – Chicago Bears (PAWA)
+#EXTVLCOPT:http-referrer=https://pawastreams.net/los-angeles-rams-chicago-bears/97395/
+#EXTVLCOPT:http-origin=https://pawastreams.net/los-angeles-rams-chicago-bears/97395/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cd.tookit.shop:2053/storage/n2/index.m3u8
 #EXTINF:-1 tvg-chno="119" tvg-id="Live.Event.us" tvg-name="[Live Event] Senegal vs Morocco (PAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Senegal vs Morocco (PAWA)
