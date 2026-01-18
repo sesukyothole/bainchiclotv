@@ -1,71 +1,66 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Chicago Bears vs Los Angeles Rams" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAhSqsABMQ9FCG4gSIPXr4htEc-p0EKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Streamed",Chicago Bears vs Los Angeles Rams
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://strm.poocloud.in/secure/ANRagUUrfjHEzQmkxlfqgtSfEBZHTgOF/1768771800/1768798800/chicagobears/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Houston vs Arizona State" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1H4QAEwQgyObtpAGYIFMZB8DZkBMIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Streamed",Houston vs Arizona State
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/LlSyztRFlORPmuNgndnjFzKahDhfalHi/delta/stream/live_ncaa_houston-arizona-state-live-streaming-461817504/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atltico Junior vs Deportes Tolima" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhD0sCZsCSQQ3EHxAATI6twhEiHCAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Streamed",Atltico Junior vs Deportes Tolima
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/cYsovFUEtZNGwnHXhPQqUIMfaUEAOmwN/echo/stream/junior-vs-deportes-tolima-football-1498268/1/playlist.m3u8
+https://lb9.strmd.top/secure/NZFpzrZPoSwTaqNRkxMnVEDFGPFlIOnl/echo/stream/junior-vs-deportes-tolima-football-1498268/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Crime Wave" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="Streamed",Crime Wave
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/AaRWJbDSUwLiMYAxUNfLUlLjlYBNmmmC/echo/stream/ppv-event-02-gcw-crime-wave-ppv-02/1/playlist.m3u8
+https://lb8.strmd.top/secure/EWMNtlotxjffnWkffSyhMLdHihHAnOnN/echo/stream/ppv-event-02-gcw-crime-wave-ppv-02/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Santos Laguna vs FC Juarez" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxz0qKEDBB8Q3ECRAATbSAimjIRIkMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Streamed",Santos Laguna vs FC Juarez
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/ppzpHDRwngSgvKwiRynbpdRxgsgEAbow/echo/stream/santos-laguna-vs-fc-juarez-football-1491816/1/playlist.m3u8
+https://lb9.strmd.top/secure/dLYxiaEJmXkSRVOvYallSBuGoUSuWfqk/echo/stream/santos-laguna-vs-fc-juarez-football-1491816/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Chicago Bulls vs Brooklyn Nets" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Chicago Bulls vs Brooklyn Nets
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/gmHaRNjuWLYEHHzfBXWnKPHugEjBAHAs/delta/stream/live_nba_bulls-nets-live-streaming-428372928/1/playlist.m3u8
+https://lb1.strmd.top/secure/JuxkeaDsvJyiUspIzTfCZoUQHjlOLEpu/delta/stream/live_nba_bulls-nets-live-streaming-428372928/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Houston Rockets vs New Orleans Pelicans" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Houston Rockets vs New Orleans Pelicans
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/lAcuIvytdKNODWUlFefGBsNSevsTEyUI/delta/stream/live_nba_rockets-pelicans-live-streaming-428373360/1/playlist.m3u8
+https://lb7.strmd.top/secure/MKUsOnoPXEvVKoNxcXWootWnVsILNveX/delta/stream/live_nba_rockets-pelicans-live-streaming-428373360/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="San Francisco Dons vs Washington St Cougars" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",San Francisco Dons vs Washington St Cougars
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/nptpvCoawXZULxUtQxqXPvXazGbzEDiK/delta/stream/live_ncaa_san-francisco-washington-st-live-streaming-461818368/1/playlist.m3u8
+https://lb2.strmd.top/secure/QBoSIhkXwWRrcbVDbYUAOhShieVpIWNA/delta/stream/live_ncaa_san-francisco-washington-st-live-streaming-461818368/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="MMA: FURY FC 113" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="Streamed",MMA: FURY FC 113
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/VDCAaNWSMJoYBdFyfOtLjKEhkwdzgzJX/charlie/stream/fury-fc-113-1629473686/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Houston Cougars vs Arizona State Sun Devils" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Houston Cougars vs Arizona State Sun Devils
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/TiTjINTztnJLNPTTzFVhiCfiYYfIWWiQ/delta/stream/live_ncaa_houston-arizona-state-live-streaming-461817504/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Chicago Bears vs Los Angeles Rams" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title="Streamed",Chicago Bears vs Los Angeles Rams
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/GGXfyjCKNiPIpGfQPvzAyRIttNgRqlIO/delta/stream/live_nfl_bears-rams-live-streaming-492189696/1/playlist.m3u8
+https://lb3.strmd.top/secure/kxqxfNHCtHAQkrLHelfYSNrVekuNUSJz/charlie/stream/fury-fc-113-1629473686/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Tulane vs North Texas" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOgxirEiG4hNIEBBB89IACYhE2iAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="Streamed",Tulane vs North Texas
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/UhKFfsTKvEBaKIkrwSpJuiGYGSvrxLdi/delta/stream/live_ncaa_tulane-north-texas-live-streaming-461817072/1/playlist.m3u8
+https://lb1.strmd.top/secure/roPMChENWrnlyhJLjSLKcbSYdXYTzvrt/delta/stream/live_ncaa_tulane-north-texas-live-streaming-461817072/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Detroit Red Wings vs Ottawa Senators" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxFE3MBpQhuIACY6Q2kiEQGT2xhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="Streamed",Detroit Red Wings vs Ottawa Senators
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/SfOjLobKGrcNfkEGRknryELXstwssGPQ/1768766400/1768791600/detroitredwings/index.m3u8
+https://strm.poocloud.in/secure/ZxIEcSRpEzOYgSFjlZLqSgcJtVdUIZJh/1768766400/1768791600/detroitredwings/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Memphis Tigers vs Texas San Antonio Roadrunners" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="Streamed",Memphis Tigers vs Texas San Antonio Roadrunners
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/DPgvCMCcnjLwPdUbmHiCXSidxMkLSrrj/delta/stream/live_ncaa_memphis-utsa-live-streaming-461817936/1/playlist.m3u8
+https://lb8.strmd.top/secure/KBmgsyRrGMDxYrMbCSZZCUMpcloBGKjd/delta/stream/live_ncaa_memphis-utsa-live-streaming-461817936/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Independ. Rivadavia vs CA Estudiantes" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIFCET965BgGNm4nvBFVuBLqzBhc+S0A.webp" group-title="Streamed",Independ. Rivadavia vs CA Estudiantes
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/CFzWKmjxmxCtMvhZfjUOfevapHwyospr/echo/stream/independ-rivadavia-vs-ca-estudiantes-football-1502446/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="New England Patriots vs Houston Texans" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYFNU0oQ3EBFy79IRABMQ5nHwIUm1rmDLwi80SmBNaYR2NEQgA.webp" group-title="Streamed",New England Patriots vs Houston Texans
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/zDzlvcqPqFAiFCVheryRAYuHOgRdZgne/1768759200/1768786200/newenglandpatriots/index.m3u8
+https://lb9.strmd.top/secure/SkqpGhmFJufvSfkLGZoUkGETVEKZErGt/echo/stream/independ-rivadavia-vs-ca-estudiantes-football-1502446/1/playlist.m3u8
