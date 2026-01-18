@@ -3,29 +3,59 @@
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/XCQrDrHTLjLhCNlboFcDhQYyfdaFLcSR/charlie/stream/brisbane-heat-vs-sydney-sixers-1629473671/1/playlist.m3u8
+https://lb5.strmd.top/secure/msOOuTBpjAWUYMLKpZFpIGIVruOGJMks/charlie/stream/brisbane-heat-vs-sydney-sixers-1629473671/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Margaret Court Arena Bublik - Brooksby" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open vs Margaret Court Arena Bublik - Brooksby
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/txzJOixeqzJTrJRHxQzgPpYWyHDdcQul/charlie/stream/margaret-court-arena-1629473670/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs John Cain Arena Danilovic - Williams" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open vs John Cain Arena Danilovic - Williams
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/dGcmcsgiTHmcHKMwOQPACKayHzGNwjbE/charlie/stream/john-cain-arena-1629473665/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Rod Laver Arena Sabalenka - Rakotomanga Rajaonah" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open vs Rod Laver Arena Sabalenka - Rakotomanga Rajaonah
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/QxalvYcWUmJFuYwkrwplaQLGFCCLEqEv/charlie/stream/rod-laver-arena-1629473669/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="ICC Under-19 Cricket World Cup: England vs Zimbabwe" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIFiA6n+MYHia0qYFgh1chta+TD3gKoRCA.webp" group-title="Streamed",ICC Under-19 Cricket World Cup: England vs Zimbabwe
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/FZNGFMitKUKIkTCspcInlhSwUbTScvvR/charlie/stream/england-vs-zimbabwe-1629473667/1/playlist.m3u8
+https://lb6.strmd.top/secure/GkbNVdLHEyBMIpQlWPxVDGgWpeZIAgWp/charlie/stream/england-vs-zimbabwe-1629473667/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Dubai Invitational | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Dubai Invitational | DP World Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/XIIYENyiziRmKQqNwppCYjsCvDUXDjAk/echo/stream/dubai-invitational-dp-world-tour-pga-526234/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs John Cain Arena Svitolina - Bucsa" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open vs John Cain Arena Svitolina - Bucsa
+https://lb8.strmd.top/secure/FejcwrcLoFDZAkdvjuCvxxrseaZThqvm/echo/stream/dubai-invitational-dp-world-tour-pga-526234/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Denver Nuggets vs Washington Wizards" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnngQ7ECjB8Q3EABNcukCU0gIIHThQEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="Streamed",Denver Nuggets vs Washington Wizards
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/fVgqKSwYSajJmTFvoIhThUAUGjqbdKLo/charlie/stream/john-cain-arena-1629473665/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Margaret Court Arena Cerundolo - Zhang" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open vs Margaret Court Arena Cerundolo - Zhang
+https://lb9.strmd.top/secure/wkyxHvUamzHIgAiBlVzJZydjsMNxXAlO/bravo/stream/1768701600000-washington-wizards-vs-denver-nuggets/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Weber State vs Idaho" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIh4YPkQAmzENxBaQEXAb0hzh-RMIxgTPii5gy6+vNGOmtMM7GiIQA.webp" group-title="Streamed",Weber State vs Idaho
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/QZCOfjvlhBSjmVHFAJVViyHpVtlQFLcA/charlie/stream/margaret-court-arena-1629473670/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Rod Laver Arena Zverev - Diallo" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open vs Rod Laver Arena Zverev - Diallo
+https://lb10.strmd.top/secure/BaBntszdvYBifxkViUcFKdSkmFlgrKhm/bravo/stream/1768701600000-idaho-vs-weber-state/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Loyola Marymount vs Portland" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhADuYJGNoATENxAkQRwzCMhTR09oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="Streamed",Loyola Marymount vs Portland
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/SmsakoWGUWoYmgmoHowhWVWHFESpLTeB/charlie/stream/rod-laver-arena-1629473669/1/playlist.m3u8
+https://lb7.strmd.top/secure/kzTyCJwuzqpPzRPliFTnvGpBAvIZkfJk/bravo/stream/1768701600000-portland-vs-loyola-marymount/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="UC-Santa Barbara vs Hawaii" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxhwAEwYhN6kNxAkQRnHxCIIZoyD4EKTG1zBl4ReaJTAmtME7GiIQA.webp" group-title="Streamed",UC-Santa Barbara vs Hawaii
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/YvvInyoRwYSNfclMgAgajFZQnasToeOj/bravo/stream/1768701600000-hawai-i-vs-uc-santa-barbara/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Montana State vs Montana" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRgUwJMAAMYtCG4gSIY4hQhEx4wZgEKTPurZgy8IvNHqmtMM7GiIQA.webp" group-title="Streamed",Montana State vs Montana
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/RWBWYanzWEFvFJnIfprjTBwLcyPkFesh/bravo/stream/1768701600000-montana-vs-montana-state/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Utah Tech vs Tarleton State" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl5U+RAAxgUIbiAAmIRHwMgziHSSMEKTPii5gy8IvNEOmtME7GiIQA.webp" group-title="Streamed",Utah Tech vs Tarleton State
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/TITpszdRevyUcaHXaSEKJEWJTMVPQjTP/bravo/stream/1768701600000-tarleton-state-vs-utah-tech/1/playlist.m3u8
