@@ -1,7 +1,7 @@
 #EXTM3U billed-msg="M3U PLAYLIST BY: KSachi"
 
-#EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSscgQIRqlLoNtHDTbq1aJTb4tisHOIiOPrYw&s" group-title="Cable TV [Mix]",ABC 7 Los Angeles
-https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+*****#EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSscgQIRqlLoNtHDTbq1aJTb4tisHOIiOPrYw&s" group-title="Cable TV [Mix]",ABC 7 Los Angeles
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8*****
 
 #EXTINF:-1 tvg-id="NBA 10" tvg-name="NBA 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc9F_ME-A3fvVS5AFn8EJrhDHkZ8aItOZKyg&s" group-title="Cable TV [Mix]",3rsSINEPINOY
 https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
