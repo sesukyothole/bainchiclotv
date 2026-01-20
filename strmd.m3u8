@@ -1,26 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="ICC Under-19 Cricket World Cup: Bangladesh vs New Zealand" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEEPJCEQBgjGB4mtKmBYIdXIbVvkwj4CqEQgA.webp" group-title="Streamed",ICC Under-19 Cricket World Cup: Bangladesh vs New Zealand
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Perth Scorchers vs Sydney Sixers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyREADGxAATEDBDcQEEClzbdIPqb1aCFJnxRcwZeEXmjHTWmGdjREIA.webp" group-title="Streamed",Perth Scorchers vs Sydney Sixers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/WPmkoFZsBylIOcwzzbLhdOjNuMmvyeSY/charlie/stream/bangladesh-vs-new-zealand-1629473753/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs John Cain Arena Khachanov - Michelsen" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open vs John Cain Arena Khachanov - Michelsen
+https://lb2.strmd.top/secure/SXhPVIqcdpwLlzNwQHJmhwvbrFjfLNFm/echo/stream/bbl-qualifier-perth-scorchers-vs-sydney-sixers-game-126262/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Men's Big Bash League: TBA vs TBA" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCFoRewi0IAmnEDZAhgjoSxDNXId4QcMzIByBON5SMLyBYq78MMB4enRgLAoQnKxYcWJgScCpQhBAA.webp" group-title="Streamed",Men's Big Bash League: TBA vs TBA
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/ciSXpSJAyMsJqZkfRYsDrRVNJvECkgiD/charlie/stream/john-cain-arena-1629480732/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Margaret Court Arena Musetti - Collignon" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open vs Margaret Court Arena Musetti - Collignon
+https://lb6.strmd.top/secure/gmidRfOznabLtufoXiwLVsyaQsxdWZhc/charlie/stream/tba-vs-tba-1629473755/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Rod Laver Arena Gaston - Sinner" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open vs Rod Laver Arena Gaston - Sinner
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/isXANryFRElhByteQHVwRxHaUoNTcvMw/charlie/stream/margaret-court-arena-1629480733/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Rod Laver Arena Oliynykova - Keys" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open vs Rod Laver Arena Oliynykova - Keys
+https://lb10.strmd.top/secure/KCXkfFybysXyaWQePSePzOYZcnyLmIMb/charlie/stream/rod-laver-arena-1629480734/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Margaret Court Arena Boulter - Bencic" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="Streamed",Australian Open vs Margaret Court Arena Boulter - Bencic
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/ovfqraGfTdKXWFPBNbbCmZxWSejfmNQk/charlie/stream/rod-laver-arena-1629480734/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Australian Open | Men's and Women's 1st Round - Melbourne Park" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="Streamed",Australian Open | Men's and Women's 1st Round - Melbourne Park
+https://lb2.strmd.top/secure/ZIMqGNJEbOmLqosZAOsYbrRmfeATxUGy/charlie/stream/margaret-court-arena-1629480733/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="ICC Under-19 Cricket World Cup: Australia vs Japan" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIDvxjA8TWlTAsEOrkNoXyYG8BVCIQA.webp" group-title="Streamed",ICC Under-19 Cricket World Cup: Australia vs Japan
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/ZuhmLvXgdzFzhsxtguyRAYejZYZEgHRF/echo/stream/australian-open-mens-and-womens-1st-round-melbourne-park-game-183262/1/playlist.m3u8
+https://lb6.strmd.top/secure/tuwKRskdgIeVBYMWKwEUprZmbPjASaLz/charlie/stream/australia-vs-japan-1629473754/1/playlist.m3u8
